@@ -1,0 +1,49 @@
+{
+  "advisor": "John Creekmur",
+  "aecId": "1058760",
+  "coach": "",
+  "company": "Creekmur Wealth Advisors",
+  "dma": "Jack McMillen",
+  "feeTax": 1250,
+  "hours": 3,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Morton, IL",
+      "zip": "61550"
+    },
+    {
+      "place": "Denver, CO",
+      "zip": ""
+    },
+    {
+      "place": "Bourbonnais and Bloomington, IL",
+      "zip": ""
+    },
+    {
+      "place": "Avon and Littleton, CO",
+      "zip": ""
+    },
+    {
+      "place": "Roanoke, VA",
+      "zip": ""
+    },
+    {
+      "place": "Maumee, OH",
+      "zip": ""
+    },
+    {
+      "place": "Dallas, TX",
+      "zip": ""
+    }
+  ],
+  "mgmtFee": 1250,
+  "runs": [
+    "hnw",
+    "shaa"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793370355442,
+  "updatedBy": "Brynne"
+}

@@ -1,0 +1,24 @@
+{
+  "advisor": "Scott Dougan",
+  "aecId": "41831",
+  "coach": "",
+  "company": "Elevated Retirement",
+  "dma": "Payton Murray",
+  "feeTax": null,
+  "hours": 3,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Prairie Village, KS",
+      "zip": "66207"
+    }
+  ],
+  "mgmtFee": null,
+  "runs": [
+    "events"
+  ],
+  "santicares": true,
+  "ts": 1792610500000,
+  "updatedAt": 1793135517219,
+  "updatedBy": "Brynne"
+}

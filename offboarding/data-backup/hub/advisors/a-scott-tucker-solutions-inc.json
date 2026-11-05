@@ -1,0 +1,22 @@
+{
+  "advisor": "Scott Tucker",
+  "aecId": "324166",
+  "coach": "",
+  "company": "Scott Tucker Solutions, Inc.",
+  "dma": "Payton Murray",
+  "hours": 1.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Winter Garden, FL",
+      "zip": "34787"
+    }
+  ],
+  "runs": [
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793206000000,
+  "updatedBy": "Zip fix"
+}

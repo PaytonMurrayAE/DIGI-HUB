@@ -1,0 +1,16 @@
+{
+  "advisor": "COACHING",
+  "coach": "",
+  "company": "Wingate",
+  "dma": "Emily Juarez",
+  "hours": 3.5,
+  "icd": false,
+  "locations": [],
+  "runs": [
+    "coaching"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793132417470,
+  "updatedBy": "Brynne"
+}

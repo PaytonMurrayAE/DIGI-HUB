@@ -1,0 +1,28 @@
+{
+  "advisor": "Gregory Ricks",
+  "aecId": "41847",
+  "coach": "",
+  "company": "Gregory Ricks Total Wealth",
+  "dma": "Emily Juarez",
+  "feeTax": 1500,
+  "hours": 5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Mississippi",
+      "zip": "43537"
+    },
+    {
+      "place": "Metairie, LA",
+      "zip": "70002"
+    }
+  ],
+  "mgmtFee": 1500,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792774542121,
+  "updatedBy": "Brynne"
+}

@@ -1,0 +1,59 @@
+{
+  "pins": {
+    "avon-and-littleton-co": [
+      {
+        "label": "Avon, CO",
+        "lat": 39.6419,
+        "lng": -106.5158
+      },
+      {
+        "label": "Littleton, CO",
+        "lat": 39.5904,
+        "lng": -105.0201
+      }
+    ],
+    "bourbonnais-and-bloomington-il": [
+      {
+        "label": "Bourbonnais, IL",
+        "lat": 41.183,
+        "lng": -87.8785
+      },
+      {
+        "label": "Bloomington, IL",
+        "lat": 40.4758,
+        "lng": -88.9699
+      }
+    ],
+    "dallas-tx": [
+      {
+        "label": "Dallas, TX",
+        "lat": 32.7933,
+        "lng": -96.7665
+      }
+    ],
+    "denver-co": [
+      {
+        "label": "Denver, CO",
+        "lat": 39.7619,
+        "lng": -104.8811
+      }
+    ],
+    "maumee-oh": [
+      {
+        "label": "Maumee, OH",
+        "lat": 41.5711,
+        "lng": -83.6663
+      }
+    ],
+    "roanoke-va": [
+      {
+        "label": "Roanoke, VA",
+        "lat": 37.2785,
+        "lng": -79.9582
+      }
+    ]
+  },
+  "signature": "Legend",
+  "updatedAt": 1793204400000,
+  "updatedBy": "Seeded from the heat map"
+}

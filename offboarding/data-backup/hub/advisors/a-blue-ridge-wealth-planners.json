@@ -1,0 +1,26 @@
+{
+  "advisor": "Bob Fugate",
+  "aecId": "46971",
+  "coach": "",
+  "company": "Blue Ridge Wealth Planners",
+  "dma": "Jack McMillen",
+  "feeTax": 2000,
+  "hours": 3.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Knoxville, TN",
+      "zip": "37932"
+    }
+  ],
+  "mgmtFee": 2000,
+  "runs": [
+    "events",
+    "hnw",
+    "hnwlira"
+  ],
+  "santicares": true,
+  "ts": 1792600000000,
+  "updatedAt": 1793370355442,
+  "updatedBy": "Brynne"
+}

@@ -1,0 +1,36 @@
+{
+  "advisor": "Jeffrey (Jeff) Buck",
+  "aecId": "225060",
+  "coach": "",
+  "company": "E.A. Buck Financial Services",
+  "dma": "Jack McMillen",
+  "feeTax": 1500,
+  "hours": 1.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Honolulu, HI",
+      "zip": "96813"
+    },
+    {
+      "place": "CO",
+      "zip": ""
+    },
+    {
+      "place": "WA",
+      "zip": ""
+    },
+    {
+      "place": "NC",
+      "zip": ""
+    }
+  ],
+  "mgmtFee": 1500,
+  "runs": [
+    "events"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792774542121,
+  "updatedBy": "Brynne"
+}

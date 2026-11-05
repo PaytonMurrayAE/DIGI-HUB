@@ -1,0 +1,11 @@
+{
+  "company": "Jennings Insurance Group",
+  "locations": [
+    {
+      "lat": 38.15,
+      "lng": -92.62,
+      "place": "Osage Beach, MO"
+    }
+  ],
+  "source": "original heat map"
+}

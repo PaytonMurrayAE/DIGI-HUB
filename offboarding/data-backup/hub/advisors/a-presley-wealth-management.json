@@ -1,0 +1,25 @@
+{
+  "advisor": "Christy Smith",
+  "aecId": "45202",
+  "coach": "",
+  "company": "Presley Wealth Management",
+  "dma": "Santi Cisneros",
+  "feeTax": 2000,
+  "hours": 1.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Livingston Parish, LA",
+      "zip": "70726"
+    }
+  ],
+  "mgmtFee": 2000,
+  "runs": [
+    "events",
+    "hvo"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793370256074,
+  "updatedBy": "Brynne"
+}

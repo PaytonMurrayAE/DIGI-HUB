@@ -1,0 +1,24 @@
+{
+  "advisor": "Loren Merkle",
+  "aecId": "85433",
+  "coach": "",
+  "company": "Merkle Retirement Planning",
+  "dma": "Jack McMillen",
+  "feeTax": 1500,
+  "hours": 9,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Des Moines, IA",
+      "zip": "50111"
+    }
+  ],
+  "mgmtFee": 1500,
+  "runs": [
+    "events"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793370355442,
+  "updatedBy": "Brynne"
+}

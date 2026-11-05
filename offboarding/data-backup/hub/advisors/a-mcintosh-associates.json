@@ -1,0 +1,26 @@
+{
+  "advisor": "Mindy McIntosh",
+  "aecId": "258083",
+  "coach": "",
+  "company": "McIntosh & Associates",
+  "dma": "Jack McMillen",
+  "feeTax": 1500,
+  "hours": 6,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Freeland, MI",
+      "zip": "48623"
+    }
+  ],
+  "mgmtFee": 1500,
+  "runs": [
+    "events",
+    "hnwlira",
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793370355442,
+  "updatedBy": "Brynne"
+}

@@ -1,0 +1,38 @@
+{
+  "advisor": "Wes Wood",
+  "aecId": "47453",
+  "coach": "",
+  "company": "Wood Financial Group",
+  "dma": "Cameron Cogswell",
+  "hours": 8,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Hendersonville, TN",
+      "zip": "37075"
+    },
+    {
+      "place": "Franklin, TN",
+      "zip": "37067"
+    },
+    {
+      "place": "Mt. Juliet, TN",
+      "zip": "37122"
+    },
+    {
+      "place": "Murfreesboro, TN",
+      "zip": "37129"
+    },
+    {
+      "place": "Bowling Green, KY",
+      "zip": "42103"
+    }
+  ],
+  "runs": [
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792774542121,
+  "updatedBy": "Brynne"
+}

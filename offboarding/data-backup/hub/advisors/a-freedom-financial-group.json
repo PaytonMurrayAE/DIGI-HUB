@@ -1,0 +1,23 @@
+{
+  "advisor": "Tad Hill",
+  "aecId": "44602",
+  "coach": "",
+  "company": "Freedom Financial Group",
+  "dma": "Ella Diederich",
+  "feeTax": 1500,
+  "hours": 4,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Birmingham, AL",
+      "zip": "35244"
+    }
+  ],
+  "mgmtFee": 1500,
+  "runs": [
+    "events",
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792600000000
+}

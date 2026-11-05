@@ -1,0 +1,26 @@
+{
+  "advisor": "Josh Bretl",
+  "aecId": "2382",
+  "coach": "",
+  "company": "Wellment Financial",
+  "dma": "Ella Diederich",
+  "hours": 2,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Elmhurst, IL",
+      "zip": "60126"
+    },
+    {
+      "place": "Orland Park, IL",
+      "zip": "60462"
+    }
+  ],
+  "runs": [
+    "coaching"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792780910058,
+  "updatedBy": "Brynne"
+}

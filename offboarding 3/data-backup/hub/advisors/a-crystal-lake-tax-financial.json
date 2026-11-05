@@ -1,0 +1,28 @@
+{
+  "advisor": "Michael (Mike) Stewart",
+  "aecId": "45596",
+  "coach": "",
+  "company": "Crystal Lake Tax & Financial",
+  "dma": "Ella Diederich",
+  "feeTax": null,
+  "hours": 2,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Madison, WI",
+      "zip": "53718"
+    },
+    {
+      "place": "Crystal Lake, IL",
+      "zip": "60014"
+    }
+  ],
+  "mgmtFee": 1500,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": true,
+  "ts": 1792600000000,
+  "updatedAt": 1792774542121,
+  "updatedBy": "Brynne"
+}

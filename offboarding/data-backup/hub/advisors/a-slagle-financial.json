@@ -1,0 +1,30 @@
+{
+  "advisor": "Chad Slagle",
+  "aecId": "25352",
+  "coach": "",
+  "company": "Slagle Financial Group",
+  "dma": "Emily Juarez",
+  "hours": 3.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Edwardsville, IL",
+      "zip": "62025"
+    },
+    {
+      "place": "Bonita Springs, FL",
+      "zip": "34134"
+    },
+    {
+      "place": "Fort Walton Beach, FL",
+      "zip": "32548"
+    }
+  ],
+  "runs": [
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792774542121,
+  "updatedBy": "Brynne"
+}

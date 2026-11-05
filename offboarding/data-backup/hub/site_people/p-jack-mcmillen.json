@@ -1,0 +1,25 @@
+{
+  "birthday": "02-18",
+  "contact": "Pop by my desk",
+  "email": "jack.mcmillen@aemarketing.com",
+  "fact": "I have family that lives in Hawaii and I can surf!",
+  "goToFor": "",
+  "hidden": false,
+  "name": "Jack McMillen",
+  "polaroid": true,
+  "roles": [
+    "manager"
+  ],
+  "startDate": "2023-06-05",
+  "subteam": "Eagle",
+  "title": "Digital Marketing Manager",
+  "ts": 1793032230296,
+  "week": [
+    "Lenexa",
+    "Office",
+    "WFH",
+    "Lenexa",
+    "Office"
+  ],
+  "years": "3 Years"
+}

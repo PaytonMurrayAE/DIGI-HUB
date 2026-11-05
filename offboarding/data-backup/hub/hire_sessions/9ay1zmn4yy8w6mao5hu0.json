@@ -1,0 +1,13 @@
+{
+  "attendees": [
+    "TEST",
+    "Person 2"
+  ],
+  "day": "Tuesday",
+  "done": false,
+  "status": "claimed",
+  "time": "1:00",
+  "topic": "Digi Sync 101",
+  "trainer": "Brymme",
+  "ts": 1790615131709
+}

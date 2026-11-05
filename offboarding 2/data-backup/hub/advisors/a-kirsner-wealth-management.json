@@ -1,0 +1,25 @@
+{
+  "advisor": "Craig Kirsner",
+  "aecId": "46290",
+  "coach": "",
+  "company": "Kirsner Wealth Management",
+  "dma": "Santi Cisneros",
+  "feeTax": 2000,
+  "hours": 1.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Boca Raton, FL",
+      "zip": "33073"
+    }
+  ],
+  "mgmtFee": 2000,
+  "runs": [
+    "events",
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793370256074,
+  "updatedBy": "Brynne"
+}

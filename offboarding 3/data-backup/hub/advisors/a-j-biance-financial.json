@@ -1,0 +1,40 @@
+{
+  "advisor": "Justin Biance",
+  "aecId": "1055607",
+  "coach": "",
+  "company": "J. Biance Financial",
+  "dma": "Ella Diederich",
+  "feeTax": 2000,
+  "hours": 6,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Hendersonville, NC",
+      "zip": "28739"
+    },
+    {
+      "place": "Sebring, FL",
+      "zip": "33870"
+    },
+    {
+      "place": "Jacksonville, FL",
+      "zip": "32207"
+    },
+    {
+      "place": "Asheville, NC",
+      "zip": "28803"
+    },
+    {
+      "place": "Greer, SC",
+      "zip": "29651"
+    }
+  ],
+  "mgmtFee": 2000,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793206000000,
+  "updatedBy": "Zip fix"
+}

@@ -1,0 +1,21 @@
+{
+  "advisor": "COACHING",
+  "coach": "",
+  "company": "Strategy Financial Group",
+  "dma": "Emily Juarez",
+  "hours": 1,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Kansas City, MO",
+      "zip": ""
+    }
+  ],
+  "runs": [
+    "coaching"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792780615531,
+  "updatedBy": "Brynne"
+}

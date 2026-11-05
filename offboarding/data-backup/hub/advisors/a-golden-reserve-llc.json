@@ -1,0 +1,25 @@
+{
+  "advisor": "Greg Aler",
+  "aecId": "1290546",
+  "coach": "",
+  "company": "Golden Reserve, LLC",
+  "dma": "Jack McMillen",
+  "feeTax": null,
+  "hours": 6,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Dublin, OH",
+      "zip": "43017"
+    }
+  ],
+  "mgmtFee": 2000,
+  "runs": [
+    "events",
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793370355442,
+  "updatedBy": "Brynne"
+}

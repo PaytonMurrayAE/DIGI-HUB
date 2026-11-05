@@ -1,0 +1,14 @@
+{
+  "attendees": [
+    "Test"
+  ],
+  "date": "2026-10-01",
+  "day": "Thursday",
+  "done": false,
+  "status": "claimed",
+  "time": "1",
+  "together": [],
+  "topic": "DMA 101",
+  "trainer": "Bryn",
+  "ts": 1791321204201
+}

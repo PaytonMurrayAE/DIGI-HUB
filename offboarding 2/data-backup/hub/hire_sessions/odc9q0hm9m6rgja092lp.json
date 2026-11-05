@@ -1,0 +1,14 @@
+{
+  "attendees": [
+    "TEST",
+    "Person 2"
+  ],
+  "day": "Friday",
+  "done": false,
+  "status": "claimed",
+  "time": "All Day",
+  "together": [],
+  "topic": "Shadow DMA",
+  "trainer": "Ella",
+  "ts": 1790785702207
+}

@@ -1,0 +1,3470 @@
+{
+ "advisor_counts": {
+  "2022-11": {
+   "count": 5,
+   "month": 11,
+   "year": 2022
+  },
+  "2023-01": {
+   "count": 29,
+   "month": 1,
+   "year": 2023
+  },
+  "2023-02": {
+   "count": 33,
+   "month": 2,
+   "year": 2023
+  },
+  "2023-03": {
+   "count": 39,
+   "month": 3,
+   "year": 2023
+  },
+  "2023-04": {
+   "count": 39,
+   "month": 4,
+   "year": 2023
+  },
+  "2023-05": {
+   "count": 38,
+   "month": 5,
+   "year": 2023
+  },
+  "2023-06": {
+   "count": 37,
+   "month": 6,
+   "year": 2023
+  },
+  "2023-07": {
+   "count": 33,
+   "month": 7,
+   "year": 2023
+  },
+  "2023-08": {
+   "count": 34,
+   "month": 8,
+   "year": 2023
+  },
+  "2023-09": {
+   "count": 29,
+   "month": 9,
+   "year": 2023
+  },
+  "2023-10": {
+   "count": 31,
+   "month": 10,
+   "year": 2023
+  },
+  "2023-11": {
+   "count": 35,
+   "month": 11,
+   "year": 2023
+  },
+  "2023-12": {
+   "count": 36,
+   "month": 12,
+   "year": 2023
+  },
+  "2024-01": {
+   "count": 39,
+   "month": 1,
+   "year": 2024
+  },
+  "2024-02": {
+   "count": 41,
+   "month": 2,
+   "year": 2024
+  },
+  "2024-03": {
+   "count": 40,
+   "month": 3,
+   "year": 2024
+  },
+  "2024-04": {
+   "count": 41,
+   "month": 4,
+   "year": 2024
+  },
+  "2024-05": {
+   "count": 41,
+   "month": 5,
+   "year": 2024
+  },
+  "2024-06": {
+   "count": 44,
+   "month": 6,
+   "year": 2024
+  },
+  "2024-07": {
+   "count": 43,
+   "month": 7,
+   "year": 2024
+  },
+  "2024-08": {
+   "count": 43,
+   "month": 8,
+   "year": 2024
+  },
+  "2024-09": {
+   "count": 41,
+   "month": 9,
+   "year": 2024
+  },
+  "2024-10": {
+   "count": 41,
+   "month": 10,
+   "year": 2024
+  },
+  "2024-11": {
+   "count": 41,
+   "month": 11,
+   "year": 2024
+  },
+  "2024-12": {
+   "count": 39,
+   "month": 12,
+   "year": 2024
+  },
+  "2025-01": {
+   "count": 37,
+   "month": 1,
+   "year": 2025
+  },
+  "2025-02": {
+   "count": 34,
+   "month": 2,
+   "year": 2025
+  },
+  "2025-03": {
+   "count": 33,
+   "month": 3,
+   "year": 2025
+  },
+  "2025-04": {
+   "count": 42,
+   "month": 4,
+   "year": 2025
+  },
+  "2025-05": {
+   "count": 40,
+   "month": 5,
+   "year": 2025
+  },
+  "2025-06": {
+   "count": 42,
+   "month": 6,
+   "year": 2025
+  },
+  "2025-07": {
+   "count": 43,
+   "month": 7,
+   "year": 2025
+  },
+  "2025-08": {
+   "count": 41,
+   "month": 8,
+   "year": 2025
+  },
+  "2025-09": {
+   "count": 37,
+   "month": 9,
+   "year": 2025
+  },
+  "2025-10": {
+   "count": 41,
+   "month": 10,
+   "year": 2025
+  },
+  "2025-11": {
+   "count": 41,
+   "month": 11,
+   "year": 2025
+  },
+  "2025-12": {
+   "count": 40,
+   "month": 12,
+   "year": 2025
+  },
+  "2026-01": {
+   "count": 35,
+   "month": 1,
+   "year": 2026
+  },
+  "2026-02": {
+   "count": 34,
+   "month": 2,
+   "year": 2026
+  },
+  "2026-03": {
+   "count": 35,
+   "month": 3,
+   "year": 2026
+  },
+  "2026-04": {
+   "count": 32,
+   "month": 4,
+   "year": 2026
+  },
+  "2026-05": {
+   "count": 34,
+   "month": 5,
+   "year": 2026
+  },
+  "2026-06": {
+   "count": 34,
+   "month": 6,
+   "year": 2026
+  },
+  "2026-07": {
+   "count": 35,
+   "month": 7,
+   "year": 2026
+  },
+  "2026-08": {
+   "count": 35,
+   "month": 8,
+   "year": 2026
+  },
+  "2026-09": {
+   "count": 36,
+   "month": 9,
+   "year": 2026
+  }
+ },
+ "advisors": {
+  "a-360-wealth-management": {
+   "advisor": "",
+   "coach": "",
+   "company": "360 Wealth Management",
+   "dma": "Payton Murray",
+   "feeTax": null,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Scottsdale, AZ",
+     "zip": "85262"
+    }
+   ],
+   "mgmtFee": 1500,
+   "runs": [
+    "coaching"
+   ],
+   "santicares": false,
+   "ts": 1792609000000,
+   "updatedAt": 1793135553138,
+   "updatedBy": "Brynne"
+  },
+  "a-b-o-s-s-retirement-solutions": {
+   "advisor": "Ryan Thacker",
+   "aecId": "414700",
+   "coach": "",
+   "company": "BOSS Retirement Solutions & Advisors",
+   "dma": "Cameron Cogswell",
+   "feeTax": 1250,
+   "hours": 8,
+   "locations": [
+    {
+     "place": "Salt Lake City, UT",
+     "zip": "84121"
+    },
+    {
+     "place": "Meridian, ID",
+     "zip": "83642"
+    },
+    {
+     "place": "Kirkland, WA",
+     "zip": "98033"
+    }
+   ],
+   "mgmtFee": 1250,
+   "runs": [
+    "events",
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792695654627,
+   "updatedAt": 1793206000000,
+   "updatedBy": "Zip fix"
+  },
+  "a-blue-ridge-wealth-planners": {
+   "advisor": "Bob Fugate",
+   "aecId": "46971",
+   "coach": "",
+   "company": "Blue Ridge Wealth Planners",
+   "dma": "Jack McMillen",
+   "feeTax": 2000,
+   "hours": 3.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Knoxville, TN",
+     "zip": "37932"
+    }
+   ],
+   "mgmtFee": 2000,
+   "runs": [
+    "events",
+    "hnw",
+    "hnwlira"
+   ],
+   "santicares": true,
+   "ts": 1792600000000,
+   "updatedAt": 1793370355442,
+   "updatedBy": "Brynne"
+  },
+  "a-centennial-advisors-llc": {
+   "advisor": "Kevin Wade",
+   "aecId": "1063824",
+   "coach": "",
+   "company": "Centennial Advisors, LLC",
+   "dma": "Trey Pivarnik",
+   "feeTax": 750,
+   "hours": 1.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Salado, TX",
+     "zip": "76571"
+    },
+    {
+     "place": "Georgetown, TX",
+     "zip": "78626"
+    }
+   ],
+   "mgmtFee": 750,
+   "runs": [
+    "events",
+    "hnwlira"
+   ],
+   "santicares": true,
+   "ts": 1792600000000,
+   "updatedAt": 1793133489738,
+   "updatedBy": "Brynne"
+  },
+  "a-complete-financial-solutions-inc": {
+   "advisor": "Kenneth Stephenson",
+   "aecId": "38596",
+   "coach": "",
+   "company": "Complete Financial Services, Inc.",
+   "dma": "Emily Juarez",
+   "feeTax": null,
+   "hours": 3,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Raleigh, NC",
+     "zip": "27526"
+    }
+   ],
+   "mgmtFee": 750,
+   "runs": [
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792600000000
+  },
+  "a-conservative-financial-solutions": {
+   "advisor": "Rodger Ford",
+   "aecId": "6753",
+   "coach": "",
+   "company": "Conservative Financial Solutions",
+   "dma": "Ella Diederich",
+   "feeTax": 1000,
+   "hours": 2,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Harrison, OH",
+     "zip": "45030"
+    },
+    {
+     "place": "Fort Mitchell, KY",
+     "zip": "41017"
+    },
+    {
+     "place": "Lawrenceburg, IN",
+     "zip": "47025"
+    },
+    {
+     "place": "West Chester Township, OH",
+     "zip": "45069"
+    }
+   ],
+   "mgmtFee": 1000,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  },
+  "a-creekmur-wealth-advisors": {
+   "advisor": "John Creekmur",
+   "aecId": "1058760",
+   "coach": "",
+   "company": "Creekmur Wealth Advisors",
+   "dma": "Jack McMillen",
+   "feeTax": 1250,
+   "hours": 3,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Morton, IL",
+     "zip": "61550"
+    },
+    {
+     "place": "Denver, CO",
+     "zip": ""
+    },
+    {
+     "place": "Bourbonnais and Bloomington, IL",
+     "zip": ""
+    },
+    {
+     "place": "Avon and Littleton, CO",
+     "zip": ""
+    },
+    {
+     "place": "Roanoke, VA",
+     "zip": ""
+    },
+    {
+     "place": "Maumee, OH",
+     "zip": ""
+    },
+    {
+     "place": "Dallas, TX",
+     "zip": ""
+    }
+   ],
+   "mgmtFee": 1250,
+   "runs": [
+    "hnw",
+    "shaa"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793370355442,
+   "updatedBy": "Brynne"
+  },
+  "a-crystal-lake-tax-financial": {
+   "advisor": "Michael (Mike) Stewart",
+   "aecId": "45596",
+   "coach": "",
+   "company": "Crystal Lake Tax & Financial",
+   "dma": "Ella Diederich",
+   "feeTax": null,
+   "hours": 2,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Madison, WI",
+     "zip": "53718"
+    },
+    {
+     "place": "Crystal Lake, IL",
+     "zip": "60014"
+    }
+   ],
+   "mgmtFee": 1500,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": true,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  },
+  "a-darwish-financial": {
+   "advisor": "Jeffrey (Jeff) Darwish",
+   "aecId": "",
+   "coach": "",
+   "company": "Darwish Financial",
+   "dma": "Ella Diederich",
+   "feeTax": null,
+   "hours": 4,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Naples, FL",
+     "zip": "34109"
+    }
+   ],
+   "mgmtFee": 2000,
+   "runs": [
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792702040904,
+   "updatedBy": "Brynne"
+  },
+  "a-e-a-buck-financial-services": {
+   "advisor": "Jeffrey (Jeff) Buck",
+   "aecId": "225060",
+   "coach": "",
+   "company": "E.A. Buck Financial Services",
+   "dma": "Jack McMillen",
+   "feeTax": 1500,
+   "hours": 1.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Honolulu, HI",
+     "zip": "96813"
+    },
+    {
+     "place": "CO",
+     "zip": ""
+    },
+    {
+     "place": "WA",
+     "zip": ""
+    },
+    {
+     "place": "NC",
+     "zip": ""
+    }
+   ],
+   "mgmtFee": 1500,
+   "runs": [
+    "events"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  },
+  "a-elevated-retirement": {
+   "advisor": "Scott Dougan",
+   "aecId": "41831",
+   "coach": "",
+   "company": "Elevated Retirement",
+   "dma": "Payton Murray",
+   "feeTax": null,
+   "hours": 3,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Prairie Village, KS",
+     "zip": "66207"
+    }
+   ],
+   "mgmtFee": null,
+   "runs": [
+    "events"
+   ],
+   "santicares": true,
+   "ts": 1792610500000,
+   "updatedAt": 1793135517219,
+   "updatedBy": "Brynne"
+  },
+  "a-freedom-financial-group": {
+   "advisor": "Tad Hill",
+   "aecId": "44602",
+   "coach": "",
+   "company": "Freedom Financial Group",
+   "dma": "Ella Diederich",
+   "feeTax": 1500,
+   "hours": 4,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Birmingham, AL",
+     "zip": "35244"
+    }
+   ],
+   "mgmtFee": 1500,
+   "runs": [
+    "events",
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792600000000
+  },
+  "a-golden-reserve-llc": {
+   "advisor": "Greg Aler",
+   "aecId": "1290546",
+   "coach": "",
+   "company": "Golden Reserve, LLC",
+   "dma": "Jack McMillen",
+   "feeTax": null,
+   "hours": 6,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Dublin, OH",
+     "zip": "43017"
+    }
+   ],
+   "mgmtFee": 2000,
+   "runs": [
+    "events",
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793370355442,
+   "updatedBy": "Brynne"
+  },
+  "a-gregory-ricks-total-wealth": {
+   "advisor": "Gregory Ricks",
+   "aecId": "41847",
+   "coach": "",
+   "company": "Gregory Ricks Total Wealth",
+   "dma": "Emily Juarez",
+   "feeTax": 1500,
+   "hours": 5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Mississippi",
+     "zip": "43537"
+    },
+    {
+     "place": "Metairie, LA",
+     "zip": "70002"
+    }
+   ],
+   "mgmtFee": 1500,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  },
+  "a-ilgenfritz-financial-group": {
+   "advisor": "William (Bill) Ilgenfritz",
+   "aecId": "1132829",
+   "coach": "",
+   "company": "Ilgenfritz Financial Group",
+   "dma": "Cameron Cogswell",
+   "feeTax": 1500,
+   "hours": 1.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "York, PA",
+     "zip": "17408"
+    }
+   ],
+   "mgmtFee": 1500,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000
+  },
+  "a-impact": {
+   "advisor": "James Teegarden",
+   "aecId": "1156725",
+   "coach": "",
+   "company": "Impact",
+   "dma": "Ella Diederich",
+   "feeTax": 1000,
+   "hours": 1.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Boulder, CO",
+     "zip": "80303"
+    }
+   ],
+   "mgmtFee": 1000,
+   "runs": [
+    "hnw",
+    "strategy"
+   ],
+   "santicares": true,
+   "ts": 1792600000000,
+   "updatedAt": 1793370465783,
+   "updatedBy": "Brynne"
+  },
+  "a-integrated-wealth-management": {
+   "advisor": "Ben Grosko",
+   "aecId": "303806",
+   "coach": "",
+   "company": "Integrated Wealth Management",
+   "dma": "Trey Pivarnik",
+   "feeTax": 1000,
+   "hours": 3,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Uniontown, OH",
+     "zip": "44685"
+    }
+   ],
+   "mgmtFee": 1000,
+   "runs": [
+    "events",
+    "hnwlira"
+   ],
+   "santicares": true,
+   "ts": 1792600000000,
+   "updatedAt": 1793133489738,
+   "updatedBy": "Brynne"
+  },
+  "a-j-biance-financial": {
+   "advisor": "Justin Biance",
+   "aecId": "1055607",
+   "coach": "",
+   "company": "J. Biance Financial",
+   "dma": "Ella Diederich",
+   "feeTax": 2000,
+   "hours": 6,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Hendersonville, NC",
+     "zip": "28739"
+    },
+    {
+     "place": "Sebring, FL",
+     "zip": "33870"
+    },
+    {
+     "place": "Jacksonville, FL",
+     "zip": "32207"
+    },
+    {
+     "place": "Asheville, NC",
+     "zip": "28803"
+    },
+    {
+     "place": "Greer, SC",
+     "zip": "29651"
+    }
+   ],
+   "mgmtFee": 2000,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793206000000,
+   "updatedBy": "Zip fix"
+  },
+  "a-kirsner-wealth-management": {
+   "advisor": "Craig Kirsner",
+   "aecId": "46290",
+   "coach": "",
+   "company": "Kirsner Wealth Management",
+   "dma": "Santi Cisneros",
+   "feeTax": 2000,
+   "hours": 1.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Boca Raton, FL",
+     "zip": "33073"
+    }
+   ],
+   "mgmtFee": 2000,
+   "runs": [
+    "events",
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793370256074,
+   "updatedBy": "Brynne"
+  },
+  "a-layman-lewis-financial-group": {
+   "advisor": "Alicia Lewis",
+   "aecId": "41827",
+   "coach": "",
+   "company": "Layman Lewis Financial Group",
+   "dma": "Emily Juarez",
+   "feeTax": 500,
+   "hours": 5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Denver, CO",
+     "zip": "80538"
+    }
+   ],
+   "mgmtFee": 500,
+   "santicares": false,
+   "ts": 1792600000000
+  },
+  "a-life-design-financial": {
+   "advisor": "Scott Warner",
+   "aecId": "64211",
+   "coach": "",
+   "company": "Life Design Financial & Insurance Services",
+   "dma": "Emily Juarez",
+   "feeTax": 750,
+   "hours": 1,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Orange County, CA",
+     "zip": "92868"
+    }
+   ],
+   "mgmtFee": 750,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": true,
+   "ts": 1792600000000,
+   "updatedAt": 1792704955662,
+   "updatedBy": "Brynne"
+  },
+  "a-lwg-coaching": {
+   "advisor": "COACHING",
+   "coach": "",
+   "company": "LWG",
+   "dma": "Ella Diederich",
+   "feeTax": null,
+   "hours": 1,
+   "icd": false,
+   "locations": [],
+   "mgmtFee": null,
+   "runs": [
+    "coaching",
+    "events",
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792780615531,
+   "updatedBy": "Brynne"
+  },
+  "a-main-street-advisors": {
+   "advisor": "Bobby Hinkle",
+   "aecId": "1141074",
+   "coach": "",
+   "company": "Main Street Advisors",
+   "dma": "Ella Diederich",
+   "feeTax": null,
+   "hours": 4,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Edmond, OK",
+     "zip": "73013"
+    }
+   ],
+   "mgmtFee": 2000,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000
+  },
+  "a-mcintosh-associates": {
+   "advisor": "Mindy McIntosh",
+   "aecId": "258083",
+   "coach": "",
+   "company": "McIntosh & Associates",
+   "dma": "Jack McMillen",
+   "feeTax": 1500,
+   "hours": 6,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Freeland, MI",
+     "zip": "48623"
+    }
+   ],
+   "mgmtFee": 1500,
+   "runs": [
+    "events",
+    "hnwlira",
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793370355442,
+   "updatedBy": "Brynne"
+  },
+  "a-mediate-financial-services": {
+   "advisor": "Christopher (Chris) Mediate",
+   "aecId": "1075897",
+   "coach": "",
+   "company": "Mediate Financial Services",
+   "dma": "Emily Juarez",
+   "feeTax": 750,
+   "hours": 2,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Canfield, OH",
+     "zip": "44406"
+    }
+   ],
+   "mgmtFee": 750,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  },
+  "a-merkle-retirement-planning": {
+   "advisor": "Loren Merkle",
+   "aecId": "85433",
+   "coach": "",
+   "company": "Merkle Retirement Planning",
+   "dma": "Jack McMillen",
+   "feeTax": 1500,
+   "hours": 9,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Des Moines, IA",
+     "zip": "50111"
+    }
+   ],
+   "mgmtFee": 1500,
+   "runs": [
+    "events"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793370355442,
+   "updatedBy": "Brynne"
+  },
+  "a-miller-retirement-group": {
+   "advisor": "Nate Miller",
+   "aecId": "105066",
+   "coach": "",
+   "company": "Miller Retirement Group",
+   "dma": "Ella Diederich",
+   "feeTax": null,
+   "hours": 2,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Lawrence, KS",
+     "zip": "66044"
+    },
+    {
+     "place": "Topeka, KS",
+     "zip": "66612"
+    },
+    {
+     "place": "Overland Park, KS",
+     "zip": "66212"
+    }
+   ],
+   "mgmtFee": 2000,
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  },
+  "a-mosley-wealth-management": {
+   "advisor": "Tom Mosley",
+   "aecId": "1059303",
+   "coach": "",
+   "company": "Mosley Wealth Management",
+   "dma": "Jack McMillen",
+   "feeTax": 2000,
+   "hours": 1.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Livingston Parish, LA",
+     "zip": "70726"
+    }
+   ],
+   "mgmtFee": 2000,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793206000000,
+   "updatedBy": "Zip fix"
+  },
+  "a-paradigm-health-and-wellness": {
+   "advisor": "Matt Klaess",
+   "aecId": "245677",
+   "coach": "",
+   "company": "Paradigm Health and Wellness",
+   "dma": "Payton Murray",
+   "feeTax": null,
+   "hours": 18,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Denver, Colorado",
+     "zip": "80222"
+    }
+   ],
+   "mgmtFee": null,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": true,
+   "ts": 1792610500000,
+   "updatedAt": 1793135517219,
+   "updatedBy": "Brynne"
+  },
+  "a-presley-wealth-management": {
+   "advisor": "Christy Smith",
+   "aecId": "45202",
+   "coach": "",
+   "company": "Presley Wealth Management",
+   "dma": "Santi Cisneros",
+   "feeTax": 2000,
+   "hours": 1.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Livingston Parish, LA",
+     "zip": "70726"
+    }
+   ],
+   "mgmtFee": 2000,
+   "runs": [
+    "events",
+    "hvo"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793370256074,
+   "updatedBy": "Brynne"
+  },
+  "a-ridgegate-financial": {
+   "advisor": "William (Wally) Smith",
+   "aecId": "24055",
+   "coach": "",
+   "company": "Ridgegate Financial Advisors",
+   "dma": "Emily Juarez",
+   "feeTax": null,
+   "hours": 3,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Englewood, CO",
+     "zip": "80112"
+    }
+   ],
+   "mgmtFee": null,
+   "runs": [
+    "hnw"
+   ],
+   "santicares": true,
+   "ts": 1792600000000,
+   "updatedAt": 1792704955662,
+   "updatedBy": "Brynne"
+  },
+  "a-riverside-financial-advisors": {
+   "advisor": "Tim McMullen",
+   "aecId": "1461509",
+   "coach": "",
+   "company": "Riverside Financial Advisors",
+   "dma": "Trey Pivarnik",
+   "hours": 2,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Pittsburgh, PA",
+     "zip": "15239"
+    },
+    {
+     "place": "Orland, PA",
+     "zip": "19075"
+    }
+   ],
+   "runs": [
+    "events",
+    "hnwlira"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793133489738,
+   "updatedBy": "Brynne"
+  },
+  "a-russell-total-wealth-and-wellness": {
+   "advisor": "Rob Russell",
+   "aecId": "18108",
+   "coach": "",
+   "company": "Russell Total Wealth and Wellness",
+   "dma": "Payton Murray",
+   "hours": 3.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Dayton, OH",
+     "zip": "45409"
+    }
+   ],
+   "runs": [
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792702500485,
+   "updatedBy": "Brynne"
+  },
+  "a-safeguard-investment-advisory-group": {
+   "advisor": "Reid Abedeen",
+   "aecId": "63647",
+   "coach": "",
+   "company": "Safeguard Investment Advisory Group",
+   "dma": "Ella Diederich",
+   "hours": 2,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Corona, CA",
+     "zip": "92883"
+    }
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  },
+  "a-saturn": {
+   "advisor": "",
+   "coach": "",
+   "company": "Saturn",
+   "dma": "",
+   "icd": false,
+   "locations": [
+    {
+     "place": "Phoenix, AZ",
+     "zip": "85004"
+    }
+   ],
+   "santicares": false,
+   "ts": 1792609000000
+  },
+  "a-scott-tucker-solutions-inc": {
+   "advisor": "Scott Tucker",
+   "aecId": "324166",
+   "coach": "",
+   "company": "Scott Tucker Solutions, Inc.",
+   "dma": "Payton Murray",
+   "hours": 1.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Winter Garden, FL",
+     "zip": "34787"
+    }
+   ],
+   "runs": [
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793206000000,
+   "updatedBy": "Zip fix"
+  },
+  "a-slagle-financial": {
+   "advisor": "Chad Slagle",
+   "aecId": "25352",
+   "coach": "",
+   "company": "Slagle Financial Group",
+   "dma": "Emily Juarez",
+   "hours": 3.5,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Edwardsville, IL",
+     "zip": "62025"
+    },
+    {
+     "place": "Bonita Springs, FL",
+     "zip": "34134"
+    },
+    {
+     "place": "Fort Walton Beach, FL",
+     "zip": "32548"
+    }
+   ],
+   "runs": [
+    "hnw"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  },
+  "a-strategy-financial-group": {
+   "advisor": "COACHING",
+   "coach": "",
+   "company": "Strategy Financial Group",
+   "dma": "Emily Juarez",
+   "hours": 1,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Kansas City, MO",
+     "zip": ""
+    }
+   ],
+   "runs": [
+    "coaching"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792780615531,
+   "updatedBy": "Brynne"
+  },
+  "a-sweitzer-income-planning": {
+   "advisor": "Ken Sweitzer",
+   "aecId": "103428",
+   "coach": "",
+   "company": "Sweitzer Income Planning",
+   "dma": "Trey Pivarnik",
+   "hours": 2,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Old Lyme, CT",
+     "zip": "06371"
+    }
+   ],
+   "runs": [
+    "hnwlira",
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792609000000,
+   "updatedAt": 1793133489738,
+   "updatedBy": "Brynne"
+  },
+  "a-wellment-financial": {
+   "advisor": "Josh Bretl",
+   "aecId": "2382",
+   "coach": "",
+   "company": "Wellment Financial",
+   "dma": "Ella Diederich",
+   "hours": 2,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Elmhurst, IL",
+     "zip": "60126"
+    },
+    {
+     "place": "Orland Park, IL",
+     "zip": "60462"
+    }
+   ],
+   "runs": [
+    "coaching"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792780910058,
+   "updatedBy": "Brynne"
+  },
+  "a-wingate": {
+   "advisor": "COACHING",
+   "coach": "",
+   "company": "Wingate",
+   "dma": "Emily Juarez",
+   "hours": 3.5,
+   "icd": false,
+   "locations": [],
+   "runs": [
+    "coaching"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1793132417470,
+   "updatedBy": "Brynne"
+  },
+  "a-wood-financial-group": {
+   "advisor": "Wes Wood",
+   "aecId": "47453",
+   "coach": "",
+   "company": "Wood Financial Group",
+   "dma": "Cameron Cogswell",
+   "hours": 8,
+   "icd": false,
+   "locations": [
+    {
+     "place": "Hendersonville, TN",
+     "zip": "37075"
+    },
+    {
+     "place": "Franklin, TN",
+     "zip": "37067"
+    },
+    {
+     "place": "Mt. Juliet, TN",
+     "zip": "37122"
+    },
+    {
+     "place": "Murfreesboro, TN",
+     "zip": "37129"
+    },
+    {
+     "place": "Bowling Green, KY",
+     "zip": "42103"
+    }
+   ],
+   "runs": [
+    "strategy"
+   ],
+   "santicares": false,
+   "ts": 1792600000000,
+   "updatedAt": 1792774542121,
+   "updatedBy": "Brynne"
+  }
+ },
+ "billing": {
+  "2026-a-360-wealth-management": {
+   "advisorId": "a-360-wealth-management",
+   "m1": "na",
+   "m10": "yes",
+   "m2": "na",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "na",
+   "m7": "na",
+   "m8": "cancelled",
+   "m9": "na",
+   "year": 2026
+  },
+  "2026-a-b-o-s-s-retirement-solutions": {
+   "advisorId": "a-b-o-s-s-retirement-solutions",
+   "m1": "yes",
+   "m10": "",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "yes",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "p10": "",
+   "s10": "",
+   "year": 2026
+  },
+  "2026-a-blue-ridge-wealth-planners": {
+   "advisorId": "a-blue-ridge-wealth-planners",
+   "m1": "yes",
+   "m10": "",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "p10": "",
+   "s10": "",
+   "year": 2026
+  },
+  "2026-a-centennial-advisors-llc": {
+   "advisorId": "a-centennial-advisors-llc",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-complete-financial-solutions-inc": {
+   "advisorId": "a-complete-financial-solutions-inc",
+   "m1": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-conservative-financial-solutions": {
+   "advisorId": "a-conservative-financial-solutions",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "no",
+   "m9": "no",
+   "year": 2026
+  },
+  "2026-a-creekmur-wealth-advisors": {
+   "advisorId": "a-creekmur-wealth-advisors",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-crystal-lake-tax-financial": {
+   "advisorId": "a-crystal-lake-tax-financial",
+   "m1": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-darwish-financial": {
+   "advisorId": "a-darwish-financial",
+   "m1": "na",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "na",
+   "m7": "no",
+   "m8": "no",
+   "m9": "no",
+   "year": 2026
+  },
+  "2026-a-e-a-buck-financial-services": {
+   "advisorId": "a-e-a-buck-financial-services",
+   "m1": "yes",
+   "m2": "na",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "na",
+   "m6": "na",
+   "m7": "no",
+   "m8": "no",
+   "m9": "no",
+   "year": 2026
+  },
+  "2026-a-freedom-financial-group": {
+   "advisorId": "a-freedom-financial-group",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "na",
+   "m5": "no",
+   "m6": "na",
+   "m7": "no",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-golden-reserve-llc": {
+   "advisorId": "a-golden-reserve-llc",
+   "m1": "na",
+   "m2": "na",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "na",
+   "m7": "no",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-gregory-ricks-total-wealth": {
+   "advisorId": "a-gregory-ricks-total-wealth",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-ilgenfritz-financial-group": {
+   "advisorId": "a-ilgenfritz-financial-group",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-impact": {
+   "advisorId": "a-impact",
+   "m7": "no",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-integrated-wealth-management": {
+   "advisorId": "a-integrated-wealth-management",
+   "m1": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-j-biance-financial": {
+   "advisorId": "a-j-biance-financial",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-kirsner-wealth-management": {
+   "advisorId": "a-kirsner-wealth-management",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "na",
+   "m5": "no",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-layman-lewis-financial-group": {
+   "advisorId": "a-layman-lewis-financial-group",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "comp",
+   "m7": "comp",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-life-design-financial": {
+   "advisorId": "a-life-design-financial",
+   "m1": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-main-street-advisors": {
+   "advisorId": "a-main-street-advisors",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "comp",
+   "m7": "comp",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-mcintosh-associates": {
+   "advisorId": "a-mcintosh-associates",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "comp",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-mediate-financial-services": {
+   "advisorId": "a-mediate-financial-services",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-merkle-retirement-planning": {
+   "advisorId": "a-merkle-retirement-planning",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "yes",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-miller-retirement-group": {
+   "advisorId": "a-miller-retirement-group",
+   "m1": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "no",
+   "m9": "no",
+   "year": 2026
+  },
+  "2026-a-mosley-wealth-management": {
+   "advisorId": "a-mosley-wealth-management",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "no",
+   "m8": "no",
+   "m9": "no",
+   "year": 2026
+  },
+  "2026-a-presley-wealth-management": {
+   "advisorId": "a-presley-wealth-management",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "year": 2026
+  },
+  "2026-a-ridgegate-financial": {
+   "advisorId": "a-ridgegate-financial",
+   "m1": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "no",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-riverside-financial-advisors": {
+   "advisorId": "a-riverside-financial-advisors",
+   "m1": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "na",
+   "m8": "no",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-russell-total-wealth-and-wellness": {
+   "advisorId": "a-russell-total-wealth-and-wellness",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "no",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-safeguard-investment-advisory-group": {
+   "advisorId": "a-safeguard-investment-advisory-group",
+   "m1": "yes",
+   "m2": "na",
+   "m3": "na",
+   "m4": "yes",
+   "m5": "no",
+   "m6": "na",
+   "m7": "no",
+   "m8": "no",
+   "m9": "no",
+   "year": 2026
+  },
+  "2026-a-saturn": {
+   "advisorId": "a-saturn",
+   "m1": "yes",
+   "m10": "na",
+   "m11": "na",
+   "m12": "na",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "cancelled",
+   "m9": "na",
+   "year": 2026
+  },
+  "2026-a-scott-tucker-solutions-inc": {
+   "advisorId": "a-scott-tucker-solutions-inc",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "na",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-slagle-financial": {
+   "advisorId": "a-slagle-financial",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-strategy-financial-group": {
+   "advisorId": "a-strategy-financial-group",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "cancelled",
+   "m5": "na",
+   "m6": "na",
+   "m7": "no",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  },
+  "2026-a-sweitzer-income-planning": {
+   "advisorId": "a-sweitzer-income-planning",
+   "m1": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "na",
+   "m8": "na",
+   "m9": "new",
+   "year": 2026
+  },
+  "2026-a-wellment-financial": {
+   "advisorId": "a-wellment-financial",
+   "m1": "yes",
+   "m10": "comp",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "comp",
+   "m7": "comp",
+   "m8": "comp",
+   "m9": "comp",
+   "year": 2026
+  },
+  "2026-a-wingate": {
+   "advisorId": "a-wingate",
+   "m1": "na",
+   "m10": "cancelled",
+   "m11": "na",
+   "m12": "na",
+   "m2": "na",
+   "m3": "na",
+   "m4": "na",
+   "m5": "na",
+   "m6": "na",
+   "m7": "na",
+   "m8": "na",
+   "m9": "na",
+   "year": 2026
+  },
+  "2026-a-wood-financial-group": {
+   "advisorId": "a-wood-financial-group",
+   "m1": "yes",
+   "m2": "yes",
+   "m3": "yes",
+   "m4": "yes",
+   "m5": "yes",
+   "m6": "yes",
+   "m7": "yes",
+   "m8": "yes",
+   "m9": "yes",
+   "year": 2026
+  }
+ },
+ "booking_links": {
+  "brynne-liedtke": {
+   "name": "Brynne Liedtke",
+   "note": "30-minute meeting",
+   "updatedAt": 1793035800000,
+   "url": "https://api.leadconnectorhq.com/widget/bookings/30-min-with-brynne-liedtke"
+  },
+  "cameron-cogswell": {
+   "name": "Cameron Cogswell",
+   "note": "30-minute meeting",
+   "updatedAt": 1793033700000,
+   "url": "https://api.leadconnectorhq.com/widget/booking/BMltm6477Z6OGe4RAofQ"
+  },
+  "chris-anderson": {
+   "name": "Chris Anderson",
+   "note": "30-minute meeting",
+   "updatedAt": 1793034000000,
+   "url": "https://api.leadconnectorhq.com/widget/bookings/chris-anderson-30min"
+  },
+  "ella-diederich": {
+   "name": "Ella Diederich",
+   "note": "",
+   "updatedAt": 1793036100000,
+   "url": "https://api.leadconnectorhq.com/widget/bookings/book-with-ella"
+  },
+  "emily-juarez": {
+   "name": "Emily Juarez",
+   "note": "30-minute meeting",
+   "updatedAt": 1793034300000,
+   "url": "https://api.leadconnectorhq.com/widget/bookings/emily-burd-30-minute"
+  },
+  "jack-mcmillen": {
+   "name": "Jack McMillen",
+   "note": "30-minute meeting",
+   "updatedAt": 1793034600000,
+   "url": "https://api.leadconnectorhq.com/widget/bookings/jack-mcmillen-30-minute-meeting"
+  },
+  "payton-murray": {
+   "name": "Payton Murray",
+   "note": "1-on-1",
+   "updatedAt": 1793034900000,
+   "url": "https://api.leadconnectorhq.com/widget/bookings/payton-murray-1-on-1-O8S0R"
+  },
+  "santi-cisneros": {
+   "name": "Santi Cisneros",
+   "note": "15-minute meeting",
+   "updatedAt": 1793035500000,
+   "url": "https://api.leadconnectorhq.com/widget/bookings/santi-cisneros-15min"
+  },
+  "trey-pivarnik": {
+   "name": "Trey Pivarnik",
+   "note": "30-minute meeting",
+   "updatedAt": 1793035200000,
+   "url": "https://api.leadconnectorhq.com/widget/bookings/treys-30-minute-meeting"
+  }
+ },
+ "calendarSubmissions": {
+  "xpydd4xeaeifgv6qp19r": {
+   "date": "2026-10-08",
+   "detail": "",
+   "kind": "team",
+   "name": "QUARTER 3 OUTING",
+   "repeat": "none",
+   "ts": 1790707981954
+  }
+ },
+ "capacity": {
+  "cameron-cogswell": {
+   "capacity": 28,
+   "extra": 0,
+   "extraNote": "",
+   "name": "Cameron Cogswell",
+   "pod": "Ideate",
+   "ts": 1792610500000
+  },
+  "ella-diederich": {
+   "capacity": 28,
+   "extra": 3,
+   "extraNote": "SME (Data SME & Sync SME)",
+   "name": "Ella Diederich",
+   "pod": "Eagle",
+   "ts": 1792610500000
+  },
+  "emily-juarez": {
+   "capacity": 28,
+   "extra": 0,
+   "extraNote": "",
+   "name": "Emily Juarez",
+   "pod": "Ideate",
+   "ts": 1792610500000
+  },
+  "jack-mcmillen": {
+   "capacity": 28,
+   "extra": 0,
+   "extraNote": "",
+   "name": "Jack McMillen",
+   "pod": "Eagle",
+   "ts": 1792610500000
+  },
+  "payton-murray": {
+   "capacity": 28,
+   "extra": 0,
+   "extraNote": "",
+   "name": "Payton Murray",
+   "pod": "Ideate",
+   "ts": 1792610500000
+  },
+  "santi-cisneros": {
+   "capacity": 15,
+   "extra": 4,
+   "extraNote": "Other SantiCares advisors (not listed yet)",
+   "name": "Santi Cisneros",
+   "pod": "Eagle",
+   "ts": 1792610500000
+  },
+  "trey-pivarnik": {
+   "capacity": 28,
+   "extra": 0,
+   "extraNote": "",
+   "name": "Trey Pivarnik",
+   "pod": "Ideate",
+   "ts": 1792610500000
+  }
+ },
+ "certifications": {
+  "c-mvplvylq": {
+   "by": "Brynne",
+   "materials": [],
+   "n": 2,
+   "name": "Meta Certifications",
+   "note": "",
+   "provider": "Meta",
+   "ts": 1793040280046,
+   "unit": "years",
+   "updatedAt": 1793040280046,
+   "url": "https://www.facebook.com/business/learn/certification"
+  },
+  "c-mvplxpbc": {
+   "by": "Brynne",
+   "materials": [],
+   "n": 3,
+   "name": "Digital Marketing Certification",
+   "note": "",
+   "provider": "HubSpot",
+   "ts": 1793040361320,
+   "unit": "years",
+   "updatedAt": 1793040361320,
+   "url": "https://academy.hubspot.com/courses/digital-marketing"
+  }
+ },
+ "contract_dates": {
+  "a-b-o-s-s-retirement-solutions": {
+   "day": "2026-01-06",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-blue-ridge-wealth-planners": {
+   "day": "2026-01-06",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-centennial-advisors-llc": {
+   "day": "2026-01-05",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-complete-financial-solutions-inc": {
+   "day": "2025-12-01",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-conservative-financial-solutions": {
+   "day": "2025-12-24",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-creekmur-wealth-advisors": {
+   "day": "2026-01-14",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-crystal-lake-tax-financial": {
+   "day": "2026-02-09",
+   "source": "import",
+   "start": "2026-02"
+  },
+  "a-darwish-financial": {
+   "day": "2026-02-09",
+   "source": "import",
+   "start": "2026-02"
+  },
+  "a-e-a-buck-financial-services": {
+   "day": "2026-01-09",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-freedom-financial-group": {
+   "day": "2026-01-26",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-golden-reserve-llc": {
+   "day": "2026-01-22",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-gregory-ricks-total-wealth": {
+   "day": "2026-01-14",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-ilgenfritz-financial-group": {
+   "day": "2026-01-19",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-impact": {
+   "day": "2026-08-11",
+   "source": "import",
+   "start": "2026-08"
+  },
+  "a-integrated-wealth-management": {
+   "day": "2026-07-02",
+   "source": "import",
+   "start": "2026-07"
+  },
+  "a-j-biance-financial": {
+   "day": "2026-01-13",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-kirsner-wealth-management": {
+   "day": "2025-12-23",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-layman-lewis-financial-group": {
+   "day": "2026-01-14",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-life-design-financial": {
+   "day": "2025-12-19",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-main-street-advisors": {
+   "day": "2025-12-18",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-mcintosh-associates": {
+   "day": "2025-12-17",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-mediate-financial-services": {
+   "day": "2025-12-22",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-merkle-retirement-planning": {
+   "day": "2026-01-05",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-miller-retirement-group": {
+   "day": "2026-03-20",
+   "source": "import",
+   "start": "2026-03"
+  },
+  "a-russell-total-wealth-and-wellness": {
+   "day": "2025-12-17",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-safeguard-investment-advisory-group": {
+   "day": "2026-01-05",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-saturn": {
+   "start": "2026-01",
+   "updatedAt": 1793367228233
+  },
+  "a-scott-tucker-solutions-inc": {
+   "day": "2025-12-23",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-slagle-financial": {
+   "day": "2025-12-30",
+   "source": "import",
+   "start": "2025-12"
+  },
+  "a-wellment-financial": {
+   "day": "2026-01-08",
+   "source": "import",
+   "start": "2026-01"
+  },
+  "a-wood-financial-group": {
+   "day": "2026-01-14",
+   "source": "import",
+   "start": "2026-01"
+  }
+ },
+ "custom_dict": {
+  "qzb63bz51ojmb2la7mqv": {
+   "meaning": "Search Engine Optimization-practice of improving a website or webpage to increase its visibility and ranking in unpaid (organic) search engine results pages (SERPs) on platforms like Google, Bing, and Yahoo",
+   "term": "SEO",
+   "ts": 1792528353958
+  }
+ },
+ "event_ideas": {
+  "i2sbia7pru48syihe8el": {
+   "details": "for an advisor christmas card",
+   "planned": false,
+   "title": "Team Pictures",
+   "ts": 1793040779564,
+   "votes": 1
+  },
+  "knlwf1gr5k0mt6zf8bu2": {
+   "by": "",
+   "details": "Quarter outing",
+   "planned": false,
+   "title": "Tramp park PLSSS",
+   "ts": 1791302694229,
+   "votes": 1
+  }
+ },
+ "goals": {
+  "2026-advisors-45": {
+   "metric": "advisors",
+   "target": 45,
+   "title": "Reach 45 advisors by the end of the year",
+   "ts": 1000,
+   "updatedAt": 1792780500000,
+   "updatedBy": "Brynne",
+   "year": 2026
+  },
+  "2027-advisors-80": {
+   "metric": "advisors",
+   "target": 80,
+   "title": "Reach 80 advisors",
+   "ts": 2000,
+   "updatedAt": 1792780500000,
+   "updatedBy": "Brynne",
+   "year": 2027
+  },
+  "2027-mgmt-fees-80k": {
+   "metric": "fees",
+   "target": 80000,
+   "title": "$80k in management fees a month",
+   "ts": 3000,
+   "updatedAt": 1792780500000,
+   "updatedBy": "Brynne",
+   "year": 2027
+  },
+  "2027-qualified-leads-15k": {
+   "metric": "custom",
+   "target": 15000,
+   "title": "15,000 qualified leads for the year",
+   "ts": 4000,
+   "unit": "",
+   "updatedAt": 1792780500000,
+   "updatedBy": "Brynne",
+   "year": 2027
+  }
+ },
+ "hire_sessions": {
+  "04c3uqaskk1u5lg289ar": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Catchlight 101",
+   "trainer": "",
+   "ts": 1790183959942
+  },
+  "19jy7yqngfuwdw66ksou": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 300",
+   "trainer": "",
+   "ts": 1790183959942
+  },
+  "3uckhgnsgjtlw8tw2xgm": {
+   "attendees": [
+    "TEST",
+    "Person 2"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 300",
+   "trainer": "",
+   "ts": 1790788746443
+  },
+  "4d9hnxv2dt2rslufrvfb": {
+   "attendees": [
+    "Test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Shadow DMA",
+   "trainer": "",
+   "ts": 1791321204201
+  },
+  "6a185gh8u76o5q8b0cg6": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Intro to SantiCalls",
+   "trainer": "",
+   "ts": 1790193164774
+  },
+  "8o89hy0t5yr35ab72627": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Digi Sync 101",
+   "trainer": "",
+   "ts": 1790183959942
+  },
+  "9ay1zmn4yy8w6mao5hu0": {
+   "attendees": [
+    "TEST",
+    "Person 2"
+   ],
+   "day": "Tuesday",
+   "done": false,
+   "status": "claimed",
+   "time": "1:00",
+   "topic": "Digi Sync 101",
+   "trainer": "Brymme",
+   "ts": 1790615131709
+  },
+  "9kdzlmxpiajyn483u88l": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Shadow DMA",
+   "trainer": "",
+   "ts": 1790183959942
+  },
+  "afabgh82piu5i49m6mhq": {
+   "attendees": [
+    "TEST",
+    "Person 2"
+   ],
+   "day": "Thursday",
+   "status": "claimed",
+   "time": "10",
+   "topic": "Intro to SantiCares",
+   "trainer": "Mak",
+   "ts": 1790615131709
+  },
+  "ao040l9majo579r55b7x": {
+   "attendees": [
+    "Person 2",
+    "TEST"
+   ],
+   "day": "Wednesday",
+   "done": false,
+   "status": "claimed",
+   "time": "9:00",
+   "together": [],
+   "topic": "DMA 101",
+   "trainer": "bb",
+   "ts": 1790785626763
+  },
+  "aph08n07lzx0k42cbr15": {
+   "attendees": [
+    "TEST",
+    "Person 2"
+   ],
+   "day": "Tuesday",
+   "status": "claimed",
+   "time": "2",
+   "topic": "Facebook 101",
+   "trainer": "Payton",
+   "ts": 1790615131709
+  },
+  "au6004q0k3ly6mgt51r0": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "DMA 101",
+   "trainer": "",
+   "ts": 1790183959942
+  },
+  "ck1kvprfc9eioqinj6hf": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 200",
+   "trainer": "",
+   "ts": 1790183959942
+  },
+  "drxrlupk87p90xp5093o": {
+   "attendees": [
+    "Test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Catchlight 101",
+   "trainer": "",
+   "ts": 1791321204201
+  },
+  "eeyzvww9lk84smh322kq": {
+   "attendees": [
+    "Test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Digi Sync 101",
+   "trainer": "",
+   "ts": 1791321204201
+  },
+  "g0d8g6adl29wzenvlx0i": {
+   "attendees": [
+    "TEST",
+    "Person 2"
+   ],
+   "day": "Tuesday",
+   "status": "claimed",
+   "time": "20:00",
+   "topic": "Catchlight 101",
+   "trainer": "Cam",
+   "ts": 1790615131709
+  },
+  "la9jsf4wgi66p8ohpqyp": {
+   "attendees": [
+    "test"
+   ],
+   "day": "Tuesday",
+   "status": "claimed",
+   "time": "1:00",
+   "topic": "meta 101",
+   "trainer": "brynne",
+   "ts": 1790183521042
+  },
+  "odc9q0hm9m6rgja092lp": {
+   "attendees": [
+    "TEST",
+    "Person 2"
+   ],
+   "day": "Friday",
+   "done": false,
+   "status": "claimed",
+   "time": "All Day",
+   "together": [],
+   "topic": "Shadow DMA",
+   "trainer": "Ella",
+   "ts": 1790785702207
+  },
+  "r605jvu7b2ard9hbytdi": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 101",
+   "trainer": "",
+   "ts": 1790183959942
+  },
+  "t7xipyygl6tv8f6nio45": {
+   "attendees": [
+    "test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Intro to SantiCares",
+   "trainer": "",
+   "ts": 1790183959942
+  },
+  "u7wdapisovc1ptlbtg1i": {
+   "attendees": [
+    "Person 2"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 300",
+   "trainer": "",
+   "ts": 1790788745525
+  },
+  "usm33jop31az8cy86zl3": {
+   "attendees": [
+    "TEST",
+    "Person 2"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 200",
+   "trainer": "",
+   "ts": 1790788746964
+  },
+  "v59mrhrpqgnuubp48qjy": {
+   "attendees": [
+    "Test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Intro to SantiCares",
+   "trainer": "",
+   "ts": 1791321204201
+  },
+  "vc2h4xj1464lae3x1aw7": {
+   "attendees": [
+    "Test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 101",
+   "trainer": "",
+   "ts": 1791321204201
+  },
+  "vofw000v1ydh5duuzw33": {
+   "attendees": [
+    "Test"
+   ],
+   "date": "2026-10-01",
+   "day": "Thursday",
+   "done": false,
+   "status": "claimed",
+   "time": "1",
+   "together": [],
+   "topic": "DMA 101",
+   "trainer": "Bryn",
+   "ts": 1791321204201
+  },
+  "vyzlvbjov1h3jebqq2r5": {
+   "attendees": [
+    "Person 2"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 200",
+   "trainer": "",
+   "ts": 1790788746248
+  },
+  "wfo3ei3kkkhkv5mowzgi": {
+   "attendees": [
+    "Test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 300",
+   "trainer": "",
+   "ts": 1791321204201
+  },
+  "ymfw6vd6k73fu7lm7wy3": {
+   "attendees": [
+    "Test"
+   ],
+   "day": "",
+   "status": "open",
+   "time": "",
+   "topic": "Facebook 200",
+   "trainer": "",
+   "ts": 1791321204201
+  }
+ },
+ "kudos": {
+  "qsptwzs5zt2yn8qscwgj": {
+   "claps": 1,
+   "from": "Anonymous",
+   "message": "Happy Birthday, Cameron Cogswell! \ud83c\udf82",
+   "to": "Cameron Cogswell",
+   "ts": 1790188982433
+  },
+  "s6p33dyh1zr4r2qe7dja": {
+   "claps": 1,
+   "from": "brynne",
+   "message": "being cool",
+   "to": "Mak",
+   "ts": 1790346315254
+  },
+  "tyw6dqxmd04398vixkam": {
+   "from": "Brynne",
+   "message": "Being super cool",
+   "to": "MaKenna Meyer",
+   "ts": 1793040676938
+  },
+  "x0b8rtwrn7n8fajn3x3s": {
+   "from": "Brynne Liedtke",
+   "message": "HAPPY BIRTHDAY!!!",
+   "to": "MaKenna",
+   "ts": 1789413024215
+  }
+ },
+ "map_extras": {
+  "a-b-o-s-s-retirement-solutions": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-blue-ridge-wealth-planners": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-centennial-advisors-llc": {
+   "signature": "Premier",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-complete-financial-solutions-inc": {
+   "signature": "New Advisor",
+   "updatedAt": 1793206000000,
+   "updatedBy": "Set from billing (new in 2026)"
+  },
+  "a-conservative-financial-solutions": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-creekmur-wealth-advisors": {
+   "pins": {
+    "avon-and-littleton-co": [
+     {
+      "label": "Avon, CO",
+      "lat": 39.6419,
+      "lng": -106.5158
+     },
+     {
+      "label": "Littleton, CO",
+      "lat": 39.5904,
+      "lng": -105.0201
+     }
+    ],
+    "bourbonnais-and-bloomington-il": [
+     {
+      "label": "Bourbonnais, IL",
+      "lat": 41.183,
+      "lng": -87.8785
+     },
+     {
+      "label": "Bloomington, IL",
+      "lat": 40.4758,
+      "lng": -88.9699
+     }
+    ],
+    "dallas-tx": [
+     {
+      "label": "Dallas, TX",
+      "lat": 32.7933,
+      "lng": -96.7665
+     }
+    ],
+    "denver-co": [
+     {
+      "label": "Denver, CO",
+      "lat": 39.7619,
+      "lng": -104.8811
+     }
+    ],
+    "maumee-oh": [
+     {
+      "label": "Maumee, OH",
+      "lat": 41.5711,
+      "lng": -83.6663
+     }
+    ],
+    "roanoke-va": [
+     {
+      "label": "Roanoke, VA",
+      "lat": 37.2785,
+      "lng": -79.9582
+     }
+    ]
+   },
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-crystal-lake-tax-financial": {
+   "signature": "Premier",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-darwish-financial": {
+   "signature": "New Advisor",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-e-a-buck-financial-services": {
+   "pins": {
+    "co": [
+     {
+      "approx": true,
+      "label": "Colorado",
+      "lat": 39,
+      "lng": -105.5
+     }
+    ],
+    "nc": [
+     {
+      "approx": true,
+      "label": "North Carolina",
+      "lat": 35.5,
+      "lng": -79
+     }
+    ],
+    "wa": [
+     {
+      "approx": true,
+      "label": "Washington",
+      "lat": 47.4,
+      "lng": -120.7
+     }
+    ]
+   },
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-elevated-retirement": {
+   "signature": "New Advisor",
+   "updatedAt": 1793206000000,
+   "updatedBy": "Set from billing (new in 2026)"
+  },
+  "a-freedom-financial-group": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-golden-reserve-llc": {
+   "signature": "Under 3M",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-gregory-ricks-total-wealth": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-ilgenfritz-financial-group": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-impact": {
+   "signature": "Premier",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-integrated-wealth-management": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-j-biance-financial": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-kirsner-wealth-management": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-layman-lewis-financial-group": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-life-design-financial": {
+   "signature": "Premier",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-main-street-advisors": {
+   "signature": "3M-9.9M",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-mcintosh-associates": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-mediate-financial-services": {
+   "signature": "Premier",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-merkle-retirement-planning": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-miller-retirement-group": {
+   "signature": "Premier",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-mosley-wealth-management": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-paradigm-health-and-wellness": {
+   "signature": "New Advisor",
+   "updatedAt": 1793206000000,
+   "updatedBy": "Set from billing (new in 2026)"
+  },
+  "a-presley-wealth-management": {
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-ridgegate-financial": {
+   "signature": "Premier",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-riverside-financial-advisors": {
+   "signature": "New Advisor",
+   "updatedAt": 1793206000000,
+   "updatedBy": "Set from billing (new in 2026)"
+  },
+  "a-russell-total-wealth-and-wellness": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-safeguard-investment-advisory-group": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-saturn": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-scott-tucker-solutions-inc": {
+   "signature": "Premier",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-slagle-financial": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-strategy-financial-group": {
+   "pins": {
+    "kansas-city-mo": [
+     {
+      "label": "Kansas City, MO",
+      "lat": 39.1224,
+      "lng": -94.5551
+     }
+    ]
+   },
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-sweitzer-income-planning": {
+   "signature": "New Advisor",
+   "updatedAt": 1793206000000,
+   "updatedBy": "Set from billing (new in 2026)"
+  },
+  "a-wellment-financial": {
+   "signature": "Elite",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-wingate": {
+   "signature": "New Advisor",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  },
+  "a-wood-financial-group": {
+   "signature": "Legend",
+   "updatedAt": 1793204400000,
+   "updatedBy": "Seeded from the heat map"
+  }
+ },
+ "map_offices": {
+  "armar-insurance": {
+   "company": "Armar Insurance",
+   "locations": [
+    {
+     "lat": 38.58,
+     "lng": -121.49,
+     "place": "Sacramento, CA"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "cornerstone-retirement-group": {
+   "company": "Cornerstone Retirement Group",
+   "locations": [
+    {
+     "lat": 39.05,
+     "lng": -95.67,
+     "place": "Topeka, KS"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "fsr-wealth-strategies": {
+   "company": "FSR Wealth Strategies",
+   "locations": [
+    {
+     "lat": 41.9112,
+     "lng": -87.93991,
+     "place": "Elmhurst, IL"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "jennings-insurance-group": {
+   "company": "Jennings Insurance Group",
+   "locations": [
+    {
+     "lat": 38.15,
+     "lng": -92.62,
+     "place": "Osage Beach, MO"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "mitch-lyons-wealth-llc": {
+   "company": "Mitch Lyons Wealth, LLC",
+   "locations": [
+    {
+     "approx": true,
+     "lat": 33.72,
+     "lng": -117.83,
+     "place": "Orange County, CA"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "retire-wise-llc": {
+   "company": "Retire Wise, LLC",
+   "locations": [
+    {
+     "lat": 38.98,
+     "lng": -94.67,
+     "place": "Overland Park, KS"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "richmond-brothers": {
+   "company": "Richmond Brothers",
+   "locations": [
+    {
+     "lat": 39.74,
+     "lng": -104.99,
+     "place": "Denver, CO"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "rooted-tax-advisors": {
+   "company": "Rooted Tax Advisors",
+   "locations": [
+    {
+     "lat": 39.76,
+     "lng": -84.19,
+     "place": "Dayton, OH"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "rooted-wealth-advisors": {
+   "company": "Rooted Wealth Advisors",
+   "locations": [
+    {
+     "approx": true,
+     "lat": 34.05,
+     "lng": -118.25,
+     "place": "Southern California"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "sme-data-sme-sync-sme": {
+   "company": "SME (Data SME & Sync SME)",
+   "locations": [
+    {
+     "place": "Virtual / National"
+    }
+   ],
+   "source": "original heat map"
+  },
+  "the-lifewealth-group": {
+   "company": "The Lifewealth Group",
+   "locations": [
+    {
+     "lat": 36.3,
+     "lng": -86.62,
+     "place": "Hendersonville, TN"
+    }
+   ],
+   "source": "original heat map"
+  }
+ },
+ "new_hires": {
+  "1045wrzhy4xulq0oom8j": {
+   "archived": true,
+   "buddy": "MaKenna Meyer",
+   "name": "Person 2",
+   "start": "2026-10-10",
+   "ts": 1790784617464
+  },
+  "3l5b6ic52aw063ujt4g9": {
+   "archived": true,
+   "buddy": "Trey Pivarnik",
+   "name": "Test",
+   "start": "2026-11-07",
+   "ts": 1793371791670
+  },
+  "k36v3wo0567suvvx7uib": {
+   "archived": true,
+   "buddy": "Brynne Liedtke",
+   "name": "test",
+   "start": "2026-10-05",
+   "ts": 1790183509382
+  },
+  "k5gi21b6z4rwxjj1c6qh": {
+   "archived": true,
+   "buddy": "Brynne Liedtke",
+   "name": "TEST",
+   "start": "2026-10-01",
+   "ts": 1790615131705
+  },
+  "rrc3fyee38nqh1lpavjq": {
+   "archived": true,
+   "buddy": "Trey Pivarnik",
+   "name": "Test",
+   "start": "2026-10-20",
+   "ts": 1791321204196
+  }
+ },
+ "run_options": {
+  "hnwlira": {
+   "label": "HNWLIRA",
+   "ts": 1793132361038
+  },
+  "shaa": {
+   "label": "SHAA",
+   "ts": 1793370301565
+  }
+ },
+ "site_config": {
+  "build": {
+   "build": 1793373391187,
+   "ts": 1793373423465
+  }
+ },
+ "site_people": {
+  "p-ben-vincent": {
+   "birthday": "07-01",
+   "contact": "Teams",
+   "email": "ben.vincent@aemarketing.com",
+   "fact": "Child incoming!",
+   "goToFor": "Adobe",
+   "hidden": false,
+   "name": "Ben Vincent",
+   "polaroid": false,
+   "roles": [
+    "content"
+   ],
+   "startDate": "2024-11-01",
+   "subteam": "Content",
+   "title": "Digital Content Production Artist",
+   "ts": 1793032108183,
+   "week": [
+    "Office",
+    "Office",
+    "Office",
+    "WFH",
+    "Office"
+   ],
+   "years": "2 Years"
+  },
+  "p-brynne-liedtke": {
+   "birthday": "01-31",
+   "contact": "Teams or stop by my desk",
+   "email": "brynne.liedtke@aemarketing.com",
+   "fact": "My kneecaps are upside down, and I wear a youth's size 3 shoe.",
+   "goToFor": "",
+   "hidden": false,
+   "name": "Brynne Liedtke",
+   "polaroid": false,
+   "roles": [
+    "intern"
+   ],
+   "startDate": "2026-05-11",
+   "subteam": "Ideate",
+   "title": "Digital Marketing Intern",
+   "ts": 1793032278280,
+   "week": [
+    "10:30-2:30",
+    "1-5",
+    "10:30-2:30",
+    "1-5",
+    "10:30-2:30"
+   ],
+   "years": "5 Months"
+  },
+  "p-cameron-cogswell": {
+   "birthday": "09-23",
+   "contact": "Pop by my desk! Or Teams.",
+   "email": "cameron.cogswell@aemarketing.com",
+   "fact": "I've hiked (part of) the Great Wall of China",
+   "goToFor": "",
+   "hidden": false,
+   "name": "Cameron Cogswell",
+   "polaroid": true,
+   "roles": [
+    "manager"
+   ],
+   "startDate": "2023-10-21",
+   "subteam": "Ideate",
+   "title": "Digital Marketing Manager",
+   "ts": 1793036901797,
+   "week": [
+    "Office",
+    "Office",
+    "WFH",
+    "Office",
+    "Office"
+   ],
+   "years": "3 years"
+  },
+  "p-chris-anderson": {
+   "birthday": "11-09",
+   "contact": "Teams",
+   "email": "chris.anderson@aemarketing.com",
+   "fact": "My wife and I are beekeepers, and we harvest our own honey!",
+   "goToFor": "",
+   "hidden": false,
+   "name": "Chris Anderson",
+   "polaroid": true,
+   "roles": [
+    "director"
+   ],
+   "startDate": "2021-07-01",
+   "subteam": "Leadership",
+   "title": "Digital Marketing Team Director",
+   "ts": 1793126842920,
+   "week": [
+    "WFH",
+    "Office",
+    "Office",
+    "Lenexa",
+    "Office"
+   ],
+   "years": "5 Years"
+  },
+  "p-ella-diederich": {
+   "birthday": "02-27",
+   "contact": "Teams",
+   "email": "ella.deiderich@aemarketing.com",
+   "fact": "Visiting all the US National Parks is on my bucket list.",
+   "goToFor": "Sync",
+   "hidden": false,
+   "name": "Ella Diederich",
+   "polaroid": false,
+   "roles": [
+    "associate"
+   ],
+   "startDate": "2025-09-02",
+   "subteam": "Eagle",
+   "title": "Digital Marketing Associate",
+   "ts": 1793031987257,
+   "week": [
+    "WFH",
+    "Office",
+    "Office",
+    "Office",
+    "Office"
+   ],
+   "years": "1 Year"
+  },
+  "p-emily-juarez": {
+   "birthday": "12-30",
+   "contact": "Teams",
+   "email": "emily.juarez@aemarketing.com",
+   "fact": "Road-tripped my VW Tiguan to 22 states, with a 21-hour solo drive!",
+   "goToFor": "Compliance",
+   "hidden": false,
+   "name": "Emily Juarez",
+   "polaroid": false,
+   "roles": [
+    "consultant"
+   ],
+   "startDate": "2022-12-07",
+   "subteam": "Ideate",
+   "title": "Digital Marketing Consultant",
+   "ts": 1793032197939,
+   "week": [
+    "Office",
+    "Office",
+    "WFH",
+    "Office",
+    "Office"
+   ],
+   "years": "3 Years"
+  },
+  "p-jack-mcmillen": {
+   "birthday": "02-18",
+   "contact": "Pop by my desk",
+   "email": "jack.mcmillen@aemarketing.com",
+   "fact": "I have family that lives in Hawaii and I can surf!",
+   "goToFor": "",
+   "hidden": false,
+   "name": "Jack McMillen",
+   "polaroid": true,
+   "roles": [
+    "manager"
+   ],
+   "startDate": "2023-06-05",
+   "subteam": "Eagle",
+   "title": "Digital Marketing Manager",
+   "ts": 1793032230296,
+   "week": [
+    "Lenexa",
+    "Office",
+    "WFH",
+    "Lenexa",
+    "Office"
+   ],
+   "years": "3 Years"
+  },
+  "p-makenna-meyer": {
+   "birthday": "09-14",
+   "contact": "Teams or In person",
+   "email": "makenna.meyer@aemarketing.com",
+   "fact": "I am a CEO of my own business",
+   "goToFor": "",
+   "hidden": false,
+   "name": "MaKenna Meyer",
+   "polaroid": false,
+   "roles": [
+    "intern"
+   ],
+   "startDate": "2026-08-17",
+   "subteam": "Eagle",
+   "title": "Digital Marketing Intern",
+   "ts": 1793032290373,
+   "week": [
+    "Out",
+    "11:30-5",
+    "Out",
+    "10:30-5",
+    "8-5"
+   ],
+   "years": "2 Months"
+  },
+  "p-payton-murray": {
+   "birthday": "03-22",
+   "contact": "Pop over to my desk",
+   "email": "payton.murray@aemarketing.com",
+   "fact": "My grandma truly believes we are 6th cousins to the Queen of England",
+   "goToFor": "AI",
+   "hidden": false,
+   "name": "Payton Murray",
+   "polaroid": false,
+   "roles": [
+    "consultant"
+   ],
+   "startDate": "2026-07-20",
+   "subteam": "Ideate",
+   "title": "Digital Marketing Consultant",
+   "ts": 1793032248090,
+   "week": [
+    "Office",
+    "Office",
+    "Office",
+    "Office",
+    "Office"
+   ],
+   "years": "3 Months"
+  },
+  "p-santi-cisneros": {
+   "birthday": "04-23",
+   "contact": "Stop by my desk",
+   "email": "santi.cisneros@aemarketing.com",
+   "fact": "I used to sell cars next door and have 2 pet lizards.",
+   "goToFor": "",
+   "hidden": false,
+   "name": "Santi Cisneros",
+   "polaroid": false,
+   "roles": [
+    "santicalls"
+   ],
+   "startDate": "2022-11-21",
+   "subteam": "Calls",
+   "title": "SantiCares",
+   "ts": 1793033179183,
+   "week": [
+    "Call day",
+    "Office",
+    "Call day",
+    "Office",
+    "Call day"
+   ],
+   "years": ""
+  },
+  "p-trey-pivarnik": {
+   "birthday": "06-17",
+   "contact": "Stop by my desk",
+   "email": "trey.pivarnik@aemarketing.com",
+   "fact": "I am training for a marathon",
+   "goToFor": "Onboarding",
+   "hidden": false,
+   "name": "Trey Pivarnik",
+   "polaroid": false,
+   "roles": [
+    "associate"
+   ],
+   "startDate": "2025-07-17",
+   "subteam": "Ideate",
+   "title": "Digital Marketing Associate",
+   "ts": 1793032264606,
+   "week": [
+    "Office",
+    "Office",
+    "Office",
+    "Office",
+    "Office"
+   ],
+   "years": "1 Year"
+  }
+ },
+ "site_roles": {
+  "content": {
+   "day": "Divides time between designing ad creative, building out branding, and taking on special projects, partnering with both the Ideate and Eagle pods to give their campaigns whatever they need.",
+   "ts": 1791226000000
+  },
+  "director": {
+   "goTo": [
+    [
+     "Priorities & big decisions",
+     "Where the team is headed and what matters most right now."
+    ],
+    [
+     "Escalations",
+     "Anything a DMM or the content team can't resolve on their own."
+    ],
+    [
+     "Account performance",
+     "The big-picture read on how campaigns are doing across accounts."
+    ]
+   ],
+   "ts": 1790622800417
+  }
+ },
+ "tests": {
+  "chatgpt-ads-pilot": {
+   "advisors": [],
+   "checklist": [
+    {
+     "done": false,
+     "text": "Budget approved"
+    },
+    {
+     "done": false,
+     "text": "Creative signed off"
+    },
+    {
+     "done": false,
+     "text": "Tracking set up"
+    },
+    {
+     "done": false,
+     "text": "Landing page live"
+    },
+    {
+     "done": false,
+     "text": "Test launched"
+    },
+    {
+     "done": false,
+     "text": "Results reviewed"
+    }
+   ],
+   "decision": [
+    "If 2 of 3 KPIs are met, we extend the pilot for another month.",
+    "If 3 of 3 are met, we extend to more advisors."
+   ],
+   "endDate": "",
+   "expectations": [
+    "$1k/month covered by AE",
+    "AE Digital maintains full creative control over creative, landing page designs, ad copy, ad image and offer",
+    "Must use SantiCares"
+   ],
+   "hypothesis": "People actively conversing with ChatGPT for retirement, tax, estate, or investment questions are closer to taking action than passive social media users.",
+   "kpis": [
+    {
+     "met": "",
+     "q": "Can we generate qualified leads?",
+     "result": "",
+     "target": "CPQL \u2264 $50"
+    },
+    {
+     "met": "",
+     "q": "Are leads higher intent than Meta?",
+     "result": "",
+     "target": "CTR > 1.5%"
+    },
+    {
+     "met": "",
+     "q": "Can this channel produce appointments?",
+     "result": "",
+     "target": "CPAR \u2264 $1,500"
+    }
+   ],
+   "opportunity": "We are wondering if ChatGPT ads can compress the amount of time a prospect stays in our funnel without spending more money.",
+   "outcome": "",
+   "owner": "Payton",
+   "problem": "Using Meta ads to produce appointment requests can take a while for prospects to move all the way through the funnel.",
+   "results": "",
+   "setup": [
+    "Phase 1: 1 advisor, 1 month commitment, $1k ad spend",
+    "Primary question for phase 1: Is it worth expanding to more advisors?"
+   ],
+   "startDate": "",
+   "status": "idea",
+   "title": "ChatGPT Ads pilot",
+   "ts": 1792784500000,
+   "updatedAt": 1793133028301,
+   "updatedBy": "Brynne"
+  }
+ },
+ "tools_custom": {
+  "7mvdo0yol33gx20h2ul7": {
+   "category": "Company & Workplace",
+   "desc": "Update your skills and see your go to person for each skill",
+   "link": "https://claude.ai/artifact/DJ5ZFh91Q43keGRufrDAWc?sk=066i7uPK-Q7ISpKe3udN_w",
+   "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAABICAYAAAA+hf0SAAAQAElEQVR4AeycC5RlV1nn/9+59eiuOqe685AwISGBzGAehMBIlksEQRB0EJn4WDAM4AAyMFmuzAuBGRDCII8Jb5wwsyYwOIyKg6igUXysIIooaCQoBkICaJAQ0nTSXXXv7eoOfe/Z/v77nFt9ux7dXdVV1bjoXfvb33N/+9vf3udxz7m3Cp0u39YZOL0Bvq2XXzq9AU5vgG/zDHybT//0GeD0Btj2DAQjbhXges06GtObfkQbL+ctG4fj6cdtV6PXDOhbQeHJbVscZVn+bFWVg7KaHZRlOaiqalCV1WCE5+ZMW14OSuyqFuaWcDWco09JX+Osp/8cesuAF601maqqvlg1dofn6FPhZw6oqvJwBWbsYVWVQDXEj2MaVmUJXbX2JbJy4D5zc+WwqqAdr31lKAdlWWJT5RitL1u+qirsK/vqIntCVVUPO+OMHQ9eK9btlG/rBojQK5RCRRThIinyn4WmzAOQERmjFWQ0RZSEbYQiCUWEqUgp025erjXKxMTEd1nlHiowlUKSWUCmpRYVOTxJaIpQ/ou2SPDMwazHJZJGX1iCTpJjBFkQcIEg4wiVwB/C3zYcTN7KRvhz4KPYTgDbWkeDFSNiO3Dn8OBSknMTiUskJlc3kfOGBmmE8wWBrGmxMGFog4xoe+AoU/Co6Jgu3FWWPwG9ou7fv7+riN+TonFoJEgwSLiyxiTrgzyPR0yWtDYmDa0KMlNgqh0seYA3ndV0plqCVxBMsIOUN8OVcJwRyvvLcvajc3Nz12CwrXVbN8D8oUN39vv9p5OIb+RZMvsgUTlPWUDClxgTrGmzHMIsUyacaywVgT60VDixqI54KYIOsLymYjC8lh50H7V0zsOAl1tnPhgjE2wQDJuKjNHxIqE3BDMCywXayMESXiatbYiRkvEtwB/dMAtCL56QUnrH3ByXnLm5M1Fvy9psyyBMZrzeXxT1DyPw9EkslLMlJ8cgKGODTSLzJAdsHmiTbxQScgACPmAezWn1Iq1SFhYX/zIpftcLEuhZRlo4OtISRcq8de0S5fiyGsdWslqYYlEACNwj6zObFKkR2s4k3KrV5tZ7XhlLEUH3pA6yezgb/L6k0BaXU7EBtLCweAvz+hMyCXL1PJOC7DWUZVLwx6pQk2SaDDU4t3Jx8q3FCAuoJFt9Dl0Aq9XrpBhgpqakjNxJaro0PiNzlhsaRoTcbo3cLTcIldWyYUC3m0O5jGxQOEhkpnA0MteIT/XINk2w855UVeWBqqqeRpctq6dkAzSzibdk7Nkzbyc987lJJKU5PnNOaahZ0yTuyCI08iQ65PTaHcdRMTdXvkqrlF6v9wnE++yngdyDfItu+NGRwpGY5XbM3jRSivqIgQc1ZxdMICPzamI3GdxxygVlwh6ElpF9G5DAeQIQ2SaUWYU5RRQ7IuI3+eTwfVmwBc0p3ADMhqTRSsy3CBaVPFAVAS2EpCqb0FDNSchNywWThsbeHa1DjsyfDH4McrWaIuKqwLZRuqMhpDCAGEkusEbWGpsNhVwzqC0YJAQ+gr1RlLCxKqMEFWwu5a2QuZAi3IDFJpBpQGipLQUHkxL3B/GxubL8aUytAm1ePbUbILxOydNnRgkIOS/JJNNHIEWbIFFGiUWHWLY1oNESn5lQRFzO6fMqs8uh2+1+SqFPi+YIeBzlJg8PKeubYBgRVavAe17QCOXSbr9kc+DLiD8WEX+IHNDH6Xkf54SsR5fPKvC5b6INhFQJwrxg6JvHyLxSpCJ+njPBqp9wdBLllG4ATrFMuYk+edYmk7QklEvKicgJMcshFpEzRF6R5gVKaAyIoDARXBRFcf0555wzi2hFxeY3EKbsCiZ3QGDeNGTrjLFg2KtSQ7KA9o66QSqG9aOHw+F5w2H9oOnpHY9a6PV+gE0G9J8M/cSI4jvRnTcYDM+j8/sZo86ucuyZaoZs/ckFIyODg8QqOkXxK2zqf2nZRmF5v1O2Aeq6PovEEM/4IsJSc17ElKEF9tGS2AZJulEcDI2eBRAS9I0N9rB4M5ulqa7PXVzsr3rUsDBvpEdXlJRCo3zjAhrevkOiLjWZZlhs96ekl3E/MdXt9Yr5xcXPLC4uft2wd+/evrABXO2u7na7+6wD7u72+8/pdnsl575/lxR/rMQ9RVIeJzyAAd7Di2LW+xNStTgPSL/OJnie+c2AU7YBIuLdS3mKPM1mPpCZzRyMcSO4ik3zYvexlAUwae0RQOHcOXnWe+NEFO89++yzqyNGR6hhXT8B+9S4Z+vQ331rd85Ce0hCzMkq9/uSFC9hAc9i8X0TO9DGyqGFfv8GfHx/RHwkSQsewMNmwCcy5YFFIQDaXInI3MtgdgInXU/JBmAHXxeKjlIwAaaUZ5s837yoTgKKpQp/665du246cODAPXWdXpKsoWsQPcgc0PgJhFDwrixqirj//vuvNbcc8Hd7JN3RyLPXTEbhfknBnyKQhTqd9BNlWT2y2+2+Q5tYut3e0zqdzqNCRCIyEo3zFsni0eZQgg2FpIvLqvwL8ElXUnjSPtbrYILT31PoFJ5KSqCAaytneIvh2mVkLQrFDXfddddBhCIZHwDvxQeIjNG6e0Tkfk2vQJqECAArPRfBavUQCX5XajrJvRgOkaDNGacUMXzK/Hz/N+6+++5FbUGZn5+/8/Bg8kIG/QjzS82sGhQpEBukCKLLPLTi0rIsH6+TLMVJ9l93d47+i2rFIxTumsScTLCwGSn4S5k0JUXSfLffvV5t4Tr69Yj4q2QNMmj6pgbMJxpXEpWgDYo4uyxnftPi5dDt9q8PaR4P+BAHGRzVXbHtDgb1eQsLB/zCBnbr6sGD+77a6/Z+RIo/F2EkEQTVcZlERHxZypQyFnN/L7YnVbd7A/it1+e4o2ZqjrtFkKYSmBWgzZSQMVn9ZwRH1enp6R9HkI2Sb6ICS6zxS/csFqxzBpDClKIoOk+dmZm5UquVqH8Ocdsx28OKq016rDecme2Coiiey2yIJSUa4m9GNp2nqQQKwWOmC2dnZ/9DY7Gxdls3AKcsbuLy0hAtU6BdmiHTMkv6jRBDkQNulN7XCI60e7nTRnVtPiSk7DCnJJET3GZ6lKLsF0kSuS3+tVYp3e6Bd4Ti/SnVgN4fUbwfsyfy4upW8LbWhYWFL/NE+PKIOMDZT8H9iAOICFADTFGZldjYxQslTQEbqtu5AYLyTlY2QpGDhTDb0p6WFGEdwJr1+v1prVF4v/8uEoUWQ1qpwU3CQhEAmyAixCDwQhV+3TqJYEXl49xz+/0Dz+nnj2nd57DxeFexwmxbBMRwG4f/V8WUwOzzZlg2qLzHzXF6strge4GHWXYsWEu3bRuAa/+bWYqIKMSxLQgmlgRLbEg8MwwSXIPiE5BDYNXKjdM8imuFtwwRIl+IRjUkZMkZFLRyiaoqfy1T3+ING/DhTC3f+DpUTyOcLAjPJnxm8PyAiPgh22wEtmUDVFV1Fqv9TBaXm/daBAzbhOsFCvkP3pMDkvmIDyE5ZuX693Z63hfBpvK9gNotEO6W8r4wNQIkEYof5lL0HSPZFuFJxngi9xxPxf+qZxzkx6uJ5xFvijyLJN/fjJLG4dJKl1y8YYlaJ7EtG6Cu6+sUOtdRM6HRPNpQvWgJOikCrSHV93dP4PP2nj17DiTpE2wikP0ofzZgD2mpmMGtebsGFxHh19GQW1NZeG+w3+90ihvLavZrGx2FS8FbmFju7mnI80Bg1EBivj51qrj00ks3dB+w5RuAI+H7SMTzQxF5JiNkJo0aLx5qeKov7f7CiJXHharXezY9saPnWMumgBOjom1U3n+cVS3TubvL8vu1OYUBjnbU6XSuY5rkNlREcdbc3Nzqnz503LKI837Ifzl8RRF0AqgJuSIUUtx119+v+X1IHaMQ5DG0m6CKiOfYTXJzFCShyxImIG+B5DkmfYWd/7GsOIHmbmkxqV6avP0oQv7zsYFPwdpz9haBRVLU0ma9VEnZcdtwuXsbQ/jTRjAoYEXtS4GJdQOPqx8/OvrDIwFJ/DEBEGdTBBKX1ii1gbLVG8D+X0CIJILWAebZmGAhQBHgrHWTxN39uo9MHtb46eAhEq6Ev5wofLviVUlu0YJ8ZgBJkT8RZFKbVFh8Xlala7h445cqA4ujeDVDOBeg9VXysRD0TAlfVPcO+x2bZLJQFmrdBdfr7nPCHUjIF0NiSWgU+U+ZYwerLY7eYDbi9/bv3/9VyFgPHDx48C4pPigXfFFNyU5Mc3gs8Xn4zCnKcu7TkDY7GdjBPF8G/AK+nqqIjuwNJlcC8FrNVdWNmV9nE777S6obl01rF8EgARENTpht6GZzyzYACXkc56cLPX8OQREh4cJRHTSMCFqJvwhZnQSuqvIwkH+AUVWVf1AxqKoSqMZgnDddDvCTLzUc57hOgCljIDLbNLBUGYpIj2RhhnNz9l0OGlwZD5GPjZdl8NhUI7rKPLEdwPEbif0nmU+AqRkhJgavfkCGHltV1dlQ66o8vRoo4v6mk6PGZ44ejN9kEGeZOh6iVcrxRFu2ARj4XQQeQYDQYm0Ju2kJ1yL5bs9qTsvBafO3eRb+NOy/FqIVTdA01YIGIqLR5DYzErSrQsqgXCLTQaYy2zSwjoKOSzxEuCjbN40EDkWADZKM2uWMMIPICEDHOZoKwXCJhbJUYqqMltgaUsWnoZ/SOsuhQ4dqDqTD7ma3eDbZAIyHcTAcAKt+8aUxXLvdkg0wNzvrm6DLHJiHJjjmoJwcJSdEuQSShFFEdDsTE/mZdl3rSuZ1yAaesHEESTXRAqwsE4atCIMxJivRIGK01gzGIiP0RsLRaIyME9FYhp11Xm1jw8jeKjasEnamrWNwyBBuwQIHoiRaGKodJanTKV5/xhln7NI6ytTU1CT520l3/Ll157FZIUoA0v3AuuuWbIBU+KaHsAmsCS5y8LCCcG1wgBBi8zc82btTFD4B+EcjR38KwIaMyh1z8uHp0ywCPrKC7OfjTImjTsq2yr1MKt80u0GPGEUTX0O7hTdqweOY9DijLuad+uwwK5TJ3GY+B5PZpknKxciqpKgHgzV/v5htVzb0DL9EIwxI9EfapCaARMrD905ab9n0DVCW5TvJBc+mm+Ug0zmm1ERKmyQvliiQbnm791TwUi2Kw35mn7VuDMwefSjcugH7tOKFwp0MKR+WjdJ9mghYMkSBzjYSvJVgtaVZeozgk3UG9EaNFAU1ECTfkkMLvXXZXlIEXMskQVMzbmVqSrAH1/puQmOxrGV+RUTYo5r5jKJFZnlqOoCGDbW+dlM3wM6dO88L6cURtEREqhX8eROYdmiIvW4Z4J2el91777096KW6sHDobxXBi6NGFEZhD+6NtwZhYg3yzJtOyNqtkmxnmeQ2Jw8CN41ALqnRmTSgzyjjZNLOTJB1EEPhlQqNlj1Fq+yjkSgXm5nPbtDaLtM01Mt27Zp9cjY8gWYwGDzWybI/4cvQzIGtpKZEljvUhl9Pu6kbYLLTp12R4wAAD1xJREFUeWyofTWZDxdyRTRNwJJxKJQLiKyKlx7/I/PLGu5+vQFqzOQuTd+RPztnwkm+OXr+jh07vjNNTV0SUTym05m4YmIyPZykfzMvuuhD9pKYKkInk56WQnqpIJVHOVAP6yd3Op3vkuIxdZ1+KCIe0xl2Ht2ZmLhC0zsujiiunOikR8zMdC6anJx8+PSULuEafdnU9PTF4PNnO52HdBifXf2901PTlyC/hL6PmJqcugzZpTt3pgdOTE5eMBjoszrBQh7eTZ6iidRx5snQG3qMRDAA1l3Jyrr7rNVhgvz+UhKBZQtwAUAnFAYyrqy2OM+q+BlJ3wRWVO4JvoLwFYn1A+euxrCH6rp+NYu+i1e402yg9+3du/eLvXvvvZ33B5/iOcKt+/b1P88ivyoxhvuQPVAtsW9SDkCUUCPHY0PMkuwLGPcz9nPgwIE/MJ5fnP+MfeL/joWFhVv27+/fumfPwt/t27fv85y4br/vvvtu4wx2B/hrX5+f/wq2f0NMn0R2uwH+VnS3IfvCnj39b9DvLnzvIYDj1rm5mX+BEdf/AHkLOPoGMz8JMZUJyAfShl4IbdYGCD7j/laoyaTakl/QQSdgPPleh5D2cdS8x6q1gKS9Cd1e98ceFHf2ev3d3Ci+nkX3169Rr17p+xYphvTLCYp87TaX5NbNUrTsFFGQv/vcczUD+S1R67rwdyePiiWZI/CMM00T8rMIA0xTT7TdlA2wa9eu3RHp8Un+Smc7NBGS0Jx8nwhYdGHjIzmnG/UnOEKOuva3PXO3ljb6CALMcZXSSxCsesZAvry6jx8rMx6RuQUkjiAcUu1QTUlIoRD2+3NsHOhjVyyPbbBJ2hfjh7ESiFqDqQIjdC49h1TXadVfQNHjuHVTNkAaDm9KKXYGaWRzNoMGKK+6YwTQCWj06ZscoWv9dk/jBbufSil/irsF+rjfERjvOz09/VmuPl8Oj4uiGRsiEY8BORxtiEaISGr6QUkd4FjVpsfSn7Rubq68hQNnOvAUDg4sTyCkQMG8YGEU85OTgy9pg+WkNwCn/heq0CNJKRvTeRkDk3JJbbBYJamT9GykULQr63J5YuF3cr3/7pWmx5bkM0zSH4mD3gkTJSJomyFMGRpOvkqZfQivb39Jp7DwUfrHU4orkjhnElFyLGAjQ0pJDQshfWH//kN/b/lG4KQ3QES8MqUgxVIEYSWxyoAr7Ag56IQuUhwqpqZusnwd4Dtc7uLW0aM1ZfPw4KX5gmU+xHMzCixlrjUdo9Mz2Ng/MpJvJ2Zcvy/4RYIhSBLmpMFwaloKI5TT7ZSq6HR8MC3p1kuc1AbYVZbPJIrmv1158T26cZgwjIgRZhqRnsydcNfa7QJivEaOiwFzPsGuKTkukmzGSTZrOlmWPsC9DR8JLdg2cAQfiohpzqoMGvKfcpyZUgTHF0CFTh/kU0t+gorxhurJbICJoeK/NuFIDkgUkk0LR9CmoSSipjqrv80R+Wfa5sKY/0+qh/kWNS+ulONSUkQAYmeqbUCWROyoh8MP796x4wI0W17PkWZ5A9njpP+9DonQHIVRxuMBEHFmu91++wY0sxtqNrwBZmZmfrAIXe5gCFisNwE4oWoCjoZOIqEk3SdbPme/FvZUVMIonh6MHBEKMALaJjavfoSlkXW5wSAiHlRPTfp3ic/IxlvUVNXsSxer6q+5ud8pBiddtI5NuTh3cGqEoqQUUTwLwpdG0MbrhjaAH/nyxOy3GDZS0JIsJxEq12ReVhhgmEFwt8qDFH8BI9tsd8NDnT+Q4k5CUU6mHFdAU6PFkK6Byti2zGUmpdq/y39ee322alOAm81/tquqXigV/50hH1oUBALROE+Ck0KUIFqAYGCc6jeRy181vRzWy29oA0xMTFxDRK6+cwa3wTbREuCIB1vWTGJdL0HWO5ETsB9K8ckg4pR3bcBqqaTUkF70pZBNiCYB0v+RdDeb4OXgk67c6X+UjfW5JP3vlBJrncTn+ewXJmM3o81ItLCR6pT+ikvaK2A2pW5oAzDyT5MS4kwsvkyy6KIwHdqI0W4Fw/uIY5KrPfTJ2u1qiGGYIx5lNQ/cpLaZgOOHT2AQNVu0TVB4LJvewCY4CLyXRby61R0XYX8W9tfPVdUvQg/w9QQpJognOPIlZ9FxeVCGT/AOI8FTRTE5z9NTf5k1wW9KXfcGIPi/Y+T8uLSJgik4UoRqg/aCN3RCIko7BahTWYmCSnRJOa7InHkEErJWgOLIlNAhprJHksJFmuZE8m+QXU8+BsAQuItT+qtZ5H81Ozv7LPiXAjcD6MsBm+8bUehqsvVsbvScd7qLwkHSDoZr+FFlLEjvCQnTiI/yLOQsPkFt6L2/1igOZA3VSjGTeRzSBwG5hgNjXzaBB5mUAkQrMxFMDgpkaYI8tTVSoRQURweMP1lwhAaxRG2kUBghbHkH77XKbGKqeIpQAUSEzsX4NRHxy9zs+kHSdewYf4wkx4ENGsaW7A+QTLVgPmmpwAaaPD67pU71M7iHedqSfhMJgjtxb9z5+xc188SWOzUh5zAzvyQnS54ACWnkNkz6QMOcsrZIKS7gyE1NbFKE2tIQHKXwppuApeCPWbSGzXa2TpQA0MGmMcA0GCOsjAChM21gYFlk2nBEZQrvRiOAZS/eTUwv5uWXf894ou9A7PqEYV0bwD/FwvMlwZozNckNQJBkQm1JiiD61LComYfV6YFnnrnzvEa6/S1v+XZESt/DyIRP20ZlinBBjjQUUMqtKSZqO1bYi+cpRdY1FuY5yuXZNT6wt9BnlhAvMODdH4tcrYNoEZSyNml8GdCGFqX4bK/fP58bvmO+MdVJlvGRT8gVAd3H3N5HHlKTyVCefLg7wY8mA0/e8gStCcrhw8VrTJ8K6HbLmxMxSA5MFDYprZfAcWZyqfE8zGCLvVulGFFWCEYunNxB+KLLkkUEbr2sIZMGBJnGLOOgl2giAlSjtkbiWQBnyvD/InoUJo0QYqtqsRHHKeKDIjRq7u4pREsZMScjRTRSM6RISvF8bpD+o/nthKqafROhXNxEQ9QQ8IQAIQOka0u2yJIGEOT4zUEbedOYHOFMWwHR+Ga68An/thHCBC8a8yAM3NaIokb/5rqu/wmn+2dxvf+STdcDG7Xd0AYgwN+tU/oQp7/EfJkAc8mtmAd08sQMgqHCZy4UnaJ4KzeT/xbNDmCra6csZ94lFfnfzORLlSKPSUgjaglbb3nKkpTt3Fhu0UjizWAv5qFzl4b2XIHavaTACL1ySSTIAGos0jfo+NWJiandnFUngJef6DeFsr9Naja0Adqxr2Z+X2PiVKXgbhW5c5WCuyBlYIpkgFtg5NHK5fK/5mZmLjexxTDJHbmv+wxDVBFgYpJyzDRUb+Pkw9DxicbaLLcGYK/TMgMUtK7cTViUAZeuKdUY5n4MgxuO6sRtgDIcjgj/TPwqjJ5CBE+qev2HcrRfwMe6bX0x5lDHYcMbgOD3dvv9C9m5U4Zut5dxpnsjup9lfH6d6vd7U8aGbLO4ePN4IFtEH+KFyT9nPB9hHcYuer1+B34M4Pv9CW64LCv6vV7R6/eg+50sQ8dcGz73tbzR90d8D37JrudxDBOMx7j47vWmu93ug3u93o0c5Tfh74/9q+YtmvO63G54A7Sj+GTHI1atF9yvdXEancoMnOwGONHYfe49lq31hmPZrKU70X62M6zlx/IT0dvGYPvlYLlhuXwj/Gb5OebYW74BuOF7RZV/8Vv5O/wrguEO/W3l7OxhHqE2AM0nhSetMFxFsJuC70FZzmaAPlxV1WOWm86Ws7+Mf2z8y+PZFT/TLqvyBvuoSutLHt1WT1/uY+fOnedVVbkfW49h+NFxGx4DX0n/gfVlWQ5KgLmt+o8c0R3KtmX58HEfIxr9iwDna8s3wZZvgFr1Rdz+ccpPBZN65miSR+EiuGOOx/GK+QGdiYkHcJ38OPpoAZSr+UyMN9xQ0TddXRSdB0B/KKXkr5KPm2hm54y/XesbtI9NT+/0D1fH9cF96gu4OTs/iuIBdT18Lj4+NW5g+uDBg3dHFA+NJPu5iuv571g+Aq7xn6H/d6B9A4HeU+BrZqa8ZqQf4aqqfiaCl0DNTTOvgkeaIzjq4D0/szki2jJqqzdAFIqfHKaa59jxBYX8Ne3lk0m+p+aG+uP1cLhnOBz8NQbe/U60ATbXcToL3ATZZsH2sQD7oAFaK8bAvyFgj/G5JB3MXxQd0zVkpMXFxb34+YWi6LwPl3chX/4x1f/2fb9wHxH3ol/+aHbQxBCLTNq2+9onp5geqfR9CNznme97IvQi6BW1jpr5o12hWSk4WUlxsg6O1Z/d/jmRsaIIHy0PI7He8SCNlbw0HDh6dtHpfE+nM/FjZ5555tyYwTFJHycRxUVcNq7A0F+oXLFR0D2wTiS0KHB95vnYjVdOANKumZkrDh8+fA3+Xoey0wJoqRbM50yc804hnYN0Elij5rQum2djmuqaHKRL4F4gxTSxrXa544xJTLt2PZRLyz/l8rP0Ak6bXHKkm+wzu+PF0blk4GyOqv8pxWWSLvcqc428AXq8ktNQ8BatroefrOv6T4f3339C/1UL33TDa4rXQfifLF+F7GfHnZsuCr2ebeYt8N0s8vJ/914TwJ5hp/izicmJT0foVVFwonfHMWA+D4T9ZIjxlP4vC/MD8CsqCcVkhTgLqtnZjyhkk8sigucg6cNFEb+iZaUoihlFiHzcnFJ988TExF8uM9k0lmA2zddRjjil3nPmWWc9mM+8/4nr5R3AF846++xy967d/37ckMm+blgPH5xSOreuk/H5CwcO/Om4zVr0wsJCfzisf5QFfBYTeZ7YaIz3R1pRig9j80qO7v/COP4/wEdZTE5OXhaKVwNvLorOxdi9EoP237JAUXfs2OGfot1A/9dGFD9f1/Wq38atlf9v4TvpwpC0R9ebpLiaXDgfd+CH8eLtu3cf/cXT4XB4C5eI16SktwPvYMyl/5auTS7kbZM9HnFX33nnnYdg/YwAJJkf/d//LKBhEfezWe5m4fZy83cP2P8gwv3QHrcepu+N9Pl1Hkr9fxJ7+2o9kN8IXAe81bbLbfbv37+Aznp/1+7LprHhRoy2rX5ih/wt9H8t1/prwbe1qqMQNn8CvPUoYcv0Dhx4G7r3tKzw86mFhd4b5+cP+YewI7GY06fx/zrg54D/Brx+SbnJxFZugE0O9bS7rcjA6Q2wFVn9R+Tz9Ab4R7RYWxHq6Q2wFVndBp+bNcQ/AAAA//8pWYeuAAAABklEQVQDAALQilQ8iHP5AAAAAElFTkSuQmCC",
+   "name": "Skills Matrix",
+   "ts": 1790016847739
+  },
+  "81gulwutl7c55k10xwww": {
+   "category": "Company & Workplace",
+   "desc": "Schedule a time to take your new headshot",
+   "link": "https://legacy.advisorsexcel.com/internal/new-headshot-request/",
+   "logo": "",
+   "name": "New AE Headshot Request",
+   "ts": 1790363859405
+  },
+  "of0wupg6oqwzhzhgnrh9": {
+   "category": "Spreadsheets",
+   "desc": "Take a look at every team members favorite things",
+   "link": "https://docs.google.com/spreadsheets/d/1VyBY7oU56iFX21pM7KkdDjga-FtXg6VO-BR0MK0wyqQ/edit?usp=sharing",
+   "logo": "data:image/png;base64,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",
+   "name": "Fav Things Doc",
+   "ts": 1790011199310
+  },
+  "vwu6tun5wcbycc954ce0": {
+   "category": "Project & Process",
+   "desc": "Have a project that you need to offload/ help with. Drop it in our form and we will start working on it",
+   "link": "https://sites.leadconnectorhq.com/preview/S0yieShGNrax3Edq74l5?notrack=true",
+   "logo": "data:image/png;base64,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",
+   "name": "Intern's Website",
+   "ts": 1790011304969
+  },
+  "wb39jnnpzao445d9dydv": {
+   "category": "Websites & Hosting",
+   "desc": "What advisors see when they recive a onboarding box from us",
+   "link": "https://sites.leadconnectorhq.com/preview/K2o4t6bpNcrxGhBQTCuC?notrack=true",
+   "logo": "data:image/png;base64,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",
+   "name": "AE Digital Advisor Page",
+   "ts": 1790619541323
+  }
+ },
+ "tools_overrides": {
+  "SPREADSHEETS__NAMING_CONVENTIONS_SPREADSHEET": {
+   "category": "Spreadsheets",
+   "desc": "Reference for our file, campaign, and asset naming conventions.",
+   "link": "https://docs.google.com/spreadsheets/d/1LG2a8qaLn0oOEEp3im2Kz-kjg1lvilWTwdtKeV-CRDU/edit?usp=sharing",
+   "logo": "sheets",
+   "name": "Naming Conventions Spreadsheet"
+  }
+ },
+ "training_items": {
+  "dak4cl1wob7btgr37fb5": {
+   "by": "Trey",
+   "cat": "Workfront & Admin",
+   "d": "Learn the essential workflow for initiating a new project, assigning team members, and updating project status within Adobe Workfront.",
+   "kind": "lib",
+   "l": "https://scribehow.com/o/PuYv7YEOTwCzGCguyKg3Ug/viewer/Onboarding_Project_Creation_and_Setup_DMM__z9EBPEc9SAmNMvqAomCJsg",
+   "n": "Onboarding Project Creation & Setup (DMM)",
+   "ts": 1792436694674
+  },
+  "upbajzr7u0173ool2f5n": {
+   "by": "Trey",
+   "cat": "Workfront & Admin",
+   "d": "Follow these steps to efficiently set up and name a new project within your Adobe Workfront template.",
+   "kind": "lib",
+   "l": "https://scribehow.com/o/PuYv7YEOTwCzGCguyKg3Ug/viewer/How_to_Create_an_Offboarding_Project_in_Adobe_Workfront__gPBQQ1mxSaykTaALTsUkng",
+   "n": "How to Create an Offboarding Project in Adobe Workfront",
+   "ts": 1792436771428
+  }
+ }
+}

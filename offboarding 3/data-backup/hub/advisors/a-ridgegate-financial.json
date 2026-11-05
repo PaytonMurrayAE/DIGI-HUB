@@ -1,0 +1,24 @@
+{
+  "advisor": "William (Wally) Smith",
+  "aecId": "24055",
+  "coach": "",
+  "company": "Ridgegate Financial Advisors",
+  "dma": "Emily Juarez",
+  "feeTax": null,
+  "hours": 3,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Englewood, CO",
+      "zip": "80112"
+    }
+  ],
+  "mgmtFee": null,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": true,
+  "ts": 1792600000000,
+  "updatedAt": 1792704955662,
+  "updatedBy": "Brynne"
+}

@@ -1,0 +1,29 @@
+{
+  "advisor": "Nate Miller",
+  "aecId": "105066",
+  "coach": "",
+  "company": "Miller Retirement Group",
+  "dma": "Ella Diederich",
+  "feeTax": null,
+  "hours": 2,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Lawrence, KS",
+      "zip": "66044"
+    },
+    {
+      "place": "Topeka, KS",
+      "zip": "66612"
+    },
+    {
+      "place": "Overland Park, KS",
+      "zip": "66212"
+    }
+  ],
+  "mgmtFee": 2000,
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792774542121,
+  "updatedBy": "Brynne"
+}

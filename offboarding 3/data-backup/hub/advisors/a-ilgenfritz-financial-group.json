@@ -1,0 +1,22 @@
+{
+  "advisor": "William (Bill) Ilgenfritz",
+  "aecId": "1132829",
+  "coach": "",
+  "company": "Ilgenfritz Financial Group",
+  "dma": "Cameron Cogswell",
+  "feeTax": 1500,
+  "hours": 1.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "York, PA",
+      "zip": "17408"
+    }
+  ],
+  "mgmtFee": 1500,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000
+}

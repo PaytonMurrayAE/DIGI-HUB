@@ -1,0 +1,25 @@
+{
+  "advisor": "Ben Grosko",
+  "aecId": "303806",
+  "coach": "",
+  "company": "Integrated Wealth Management",
+  "dma": "Trey Pivarnik",
+  "feeTax": 1000,
+  "hours": 3,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Uniontown, OH",
+      "zip": "44685"
+    }
+  ],
+  "mgmtFee": 1000,
+  "runs": [
+    "events",
+    "hnwlira"
+  ],
+  "santicares": true,
+  "ts": 1792600000000,
+  "updatedAt": 1793133489738,
+  "updatedBy": "Brynne"
+}

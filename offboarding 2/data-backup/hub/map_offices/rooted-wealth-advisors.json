@@ -1,0 +1,12 @@
+{
+  "company": "Rooted Wealth Advisors",
+  "locations": [
+    {
+      "approx": true,
+      "lat": 34.05,
+      "lng": -118.25,
+      "place": "Southern California"
+    }
+  ],
+  "source": "original heat map"
+}

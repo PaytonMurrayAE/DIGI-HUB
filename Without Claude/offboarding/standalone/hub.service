@@ -1,0 +1,14 @@
+# NOT TESTED HERE. Example systemd unit: copy to /etc/systemd/system/hub.service, adjust the paths and password, then:
+#   sudo systemctl daemon-reload && sudo systemctl enable --now hub
+[Unit]
+Description=AE Digital Hub
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/ae-hub
+ExecStart=/usr/bin/python3 /opt/ae-hub/server.py --host 0.0.0.0 --port 8080 --user team --password CHANGE-ME --backup-dir /opt/ae-hub/backups
+Restart=on-failure
+User=aehub
+
+[Install]
+WantedBy=multi-user.target

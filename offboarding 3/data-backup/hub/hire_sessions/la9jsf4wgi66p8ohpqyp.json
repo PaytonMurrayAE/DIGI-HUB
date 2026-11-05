@@ -1,0 +1,11 @@
+{
+  "attendees": [
+    "test"
+  ],
+  "day": "Tuesday",
+  "status": "claimed",
+  "time": "1:00",
+  "topic": "meta 101",
+  "trainer": "brynne",
+  "ts": 1790183521042
+}

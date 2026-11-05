@@ -1,0 +1,19 @@
+{
+  "advisor": "Alicia Lewis",
+  "aecId": "41827",
+  "coach": "",
+  "company": "Layman Lewis Financial Group",
+  "dma": "Emily Juarez",
+  "feeTax": 500,
+  "hours": 5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Denver, CO",
+      "zip": "80538"
+    }
+  ],
+  "mgmtFee": 500,
+  "santicares": false,
+  "ts": 1792600000000
+}

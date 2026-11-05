@@ -1,0 +1,11 @@
+{
+  "company": "Richmond Brothers",
+  "locations": [
+    {
+      "lat": 39.74,
+      "lng": -104.99,
+      "place": "Denver, CO"
+    }
+  ],
+  "source": "original heat map"
+}

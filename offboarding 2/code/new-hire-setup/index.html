@@ -1,0 +1,459 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Sora:wght@400;500;600;700&display=swap');
+
+:root{
+  --bg:#F2F4F9; --surface:#E4EBFF; --surface-2:#D6E0FA;
+  --ink:#20232B; --ink-soft:#454B5C; --ink-faint:#7B8194; --line:#C3D0F0;
+  --accent:#2266FF; --accent-ink:#FFFFFF; --accent-soft:#D2E1FF;
+  --accent-2:#F75A03; --accent-2-soft:#FFE8DB;
+  --accent-3:#7B5CF0; --accent-3-soft:#EDE8FD;
+  --good:#1E8F6F; --good-soft:#DDF3EA;
+  --brand-gradient: linear-gradient(100deg, #2266FF 0%, #7B5CF0 52%, #F75A03 100%);
+  --shadow: 0 1px 2px rgba(33,32,32,.05), 0 8px 24px -12px rgba(33,32,32,.14);
+}
+
+*{box-sizing:border-box;}
+body{background:linear-gradient(135deg, #1C54D1 0%, #654BC5 50%, #CB4A02 100%); background-attachment:fixed; color:#FFFFFF; font-family:'Sora',sans-serif; margin:0;}
+.wrap{max-width:820px; margin:0 auto; padding:32px 20px 80px;}
+h1,h2,h3{font-family:'Big Shoulders Display',sans-serif; font-weight:800; text-transform:uppercase; letter-spacing:.02em; margin:0;}
+.eyebrow{font-size:12px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:#FFFFFF;}
+.title{font-size:34px; color:#FFFFFF; margin-top:6px;}
+.intro{color:rgba(255,255,255,.82); font-size:14.5px; line-height:1.6; margin-top:14px; max-width:640px;}
+.back-link{display:inline-block; font-size:12.5px; color:rgba(255,255,255,.75); text-decoration:underline; margin-bottom:10px;}
+.back-link:hover{color:#fff;}
+
+.card{background:var(--surface); color:var(--ink); border:1px solid var(--line); border-radius:16px; box-shadow:var(--shadow); padding:22px; margin-top:22px;}
+.card h2{font-size:19px; color:var(--ink);}
+.card-sub{font-size:12.5px; color:var(--ink-soft); margin-top:6px; line-height:1.55;}
+
+label.field-label{display:block; font-size:12.5px; font-weight:600; color:var(--ink-soft); margin-bottom:6px;}
+select, input[type=text], input[type=date]{
+  width:100%; padding:10px 12px; border-radius:10px; border:1px solid var(--line);
+  background:var(--surface-2); color:var(--ink); font-family:'Sora',sans-serif; font-size:14px;
+}
+.field-row{display:flex; gap:12px; flex-wrap:wrap; margin-top:14px;}
+.field-row:first-of-type{margin-top:16px;}
+.field-row > div{flex:1; min-width:180px;}
+
+.attendee-list{display:flex; flex-wrap:wrap; gap:10px; margin-top:8px; font-size:13px;}
+.attendee-chip{display:flex; align-items:center; gap:6px; background:var(--surface-2); border:1px solid var(--line); border-radius:20px; padding:6px 12px; cursor:pointer;}
+.attendee-chip input{margin:0;}
+.attendee-empty{font-size:12.5px; font-style:italic; color:var(--ink-faint);}
+
+button.action{
+  border:none; border-radius:10px; font-family:'Sora',sans-serif; font-weight:700; font-size:14px;
+  background:var(--brand-gradient); color:#fff; cursor:pointer; padding:11px 20px; margin-top:16px;
+}
+button.action:disabled{opacity:.6; cursor:default;}
+.status-msg{font-size:13px; margin-top:8px; color:var(--ink-soft);}
+.status-msg.ok{color:var(--good);}
+.status-msg.err{color:var(--accent-2);}
+
+/* ---------- Roster ---------- */
+.roster-list{display:flex; flex-direction:column; gap:10px; margin-top:14px;}
+.roster-row{display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; background:var(--surface-2); border-radius:11px; padding:12px 15px;}
+.roster-main{display:flex; flex-direction:column; gap:2px;}
+.roster-name{font-weight:700; font-size:14px;}
+.roster-meta{font-size:12px; color:var(--ink-soft);}
+.roster-swatch{display:inline-block; width:9px; height:9px; border-radius:50%; margin-right:7px;}
+.roster-empty{font-size:13px; font-style:italic; color:var(--ink-faint); margin-top:14px;}
+.archive-btn{
+  font-family:'Sora',sans-serif; font-size:11.5px; font-weight:600; cursor:pointer;
+  border-radius:20px; padding:6px 13px; border:1px solid var(--line); background:var(--surface); color:var(--ink-soft); flex:none;
+}
+.archive-btn:hover{border-color:var(--accent-2); color:var(--accent-2);}
+
+/* ---------- Collapsible rows (open slots / schedule), same interaction as the Skills Matrix ---------- */
+.topic-row{border-style:solid; border-width:1.5px; border-radius:10px; margin-bottom:8px; overflow:hidden; color:var(--ink); border-color:var(--line); background:var(--surface-2);}
+.topic-row-head{display:flex; align-items:center; justify-content:space-between; gap:10px; padding:12px 15px; cursor:pointer;}
+.topic-row-head:hover{background:var(--surface);}
+.topic-name{font-size:13.5px; font-weight:600;}
+.topic-tags{display:flex; flex-wrap:wrap; gap:6px; margin-top:4px;}
+.topic-chevron{color:var(--ink-faint); font-size:12px; transition:transform .15s ease; flex:none;}
+.topic-row.open .topic-chevron{transform:rotate(90deg);}
+.topic-reveal{padding:0 15px 15px; display:none;}
+.topic-row.open .topic-reveal{display:block;}
+.needs-badge{
+  font-family:'Sora',sans-serif; letter-spacing:.03em; font-size:10px; font-weight:700;
+  color:var(--accent-2); background:var(--accent-2-soft); border-radius:20px; padding:3px 9px; flex:none;
+}
+.claim-form{display:flex; flex-wrap:wrap; gap:8px; margin-top:4px;}
+.claim-form > *{flex:1; min-width:120px;}
+.claim-save{flex:none !important; min-width:auto !important;}
+.hire-tag{
+  display:inline-flex; align-items:center; font-family:'Sora',sans-serif; font-weight:600;
+  font-size:10px; letter-spacing:.03em; color:#fff; border-radius:20px; padding:2px 9px;
+}
+.session-trainer-line{font-size:12.5px; color:var(--ink-soft); margin-top:8px;}
+.empty-note{font-size:13px; font-style:italic; color:var(--ink-faint); margin-top:14px;}
+.day-title{
+  font-family:'Sora',sans-serif; letter-spacing:.05em; text-transform:uppercase; font-size:11px;
+  font-weight:700; color:var(--ink-faint); margin:16px 0 8px;
+}
+.day-title:first-child{margin-top:4px;}
+</style>
+
+<div class="wrap">
+  <a class="back-link" href="https://claude.ai/artifact/QrGTr4Fkxqwhq1iMku5PGE" target="_blank" rel="noopener">&larr; Back to The Digi Hub</a>
+  <div class="eyebrow">AE Digital &middot; New Hire Hub</div>
+  <h1 class="title">New Hire Setup</h1>
+  <p class="intro">Add a new hire, list the training topics they still need, and claim a slot to run one. Everything here shows up on the New Hire Hub tab of the main Digi Hub automatically — no login needed to use any of this.</p>
+
+  <div class="card">
+    <h2>Add a new hire</h2>
+    <p class="card-sub">They'll show up on the roster below and stay active for about two weeks after their start date.</p>
+    <div class="field-row">
+      <div>
+        <label class="field-label">Name</label>
+        <input type="text" id="hire-name" placeholder="New hire's name" maxlength="60">
+      </div>
+      <div>
+        <label class="field-label">Start date</label>
+        <input type="date" id="hire-start">
+      </div>
+      <div>
+        <label class="field-label">Buddy (optional)</label>
+        <select id="hire-buddy"></select>
+      </div>
+    </div>
+    <button class="action" id="hire-submit" type="button">Add new hire</button>
+    <div class="status-msg" id="hire-status"></div>
+  </div>
+
+  <div class="card">
+    <h2>Who's onboarding now</h2>
+    <div class="roster-list" id="roster-list"></div>
+  </div>
+
+  <div class="card">
+    <h2>Add a training topic</h2>
+    <p class="card-sub">This shows up as an open slot until someone claims it below. Check off everyone it's for &mdash; if two new hires are doing it together, check both and it'll show as one shared slot.</p>
+    <div class="field-row" style="margin-top:16px;">
+      <div style="flex:2 1 260px;">
+        <label class="field-label">Topic</label>
+        <input type="text" id="slot-topic" placeholder="e.g. Ads Manager basics" maxlength="80">
+      </div>
+    </div>
+    <label class="field-label" style="margin-top:14px;">Who's this for?</label>
+    <div class="attendee-list" id="slot-attendees"></div>
+    <button class="action" id="slot-submit" type="button">Add topic</button>
+    <div class="status-msg" id="slot-status"></div>
+  </div>
+
+  <div class="card">
+    <h2>Open slots &mdash; claim one</h2>
+    <p class="card-sub">Click a topic to claim it and pick a day/time.</p>
+    <div id="open-slots-list"></div>
+  </div>
+
+  <div class="card">
+    <h2>This week's schedule</h2>
+    <p class="card-sub">Click a session to reschedule it or reopen it if plans changed.</p>
+    <div id="schedule-list"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var HIRE_TEAM_NAMES = ["Chris Anderson","Ben Vincent","Santi Cisneros","Cameron Cogswell","Jack McMillen","Ella Diederich","Emily Burd","Payton Murray","Trey Pivarnik","Brynne Liedtke","MaKenna Meyer"];
+  var palette = ['#2266FF','#F75A03','#7B5CF0','#1749C7','#C4470A','#5C8AFF'];
+  var HIRE_ACTIVE_DAYS_AFTER = 14;
+  var HIRE_DAYS = ["Monday","Tuesday","Wednesday","Thursday","Friday"];
+
+  function parseHireDate(s){
+    if(!s) return null;
+    var d = new Date(s+"T00:00:00");
+    return isNaN(d.getTime()) ? null : d;
+  }
+  function isHireActive(h){
+    if(h.archived) return false;
+    var d = parseHireDate(h.start);
+    if(!d) return true;
+    var upper = new Date(d); upper.setDate(upper.getDate() + HIRE_ACTIVE_DAYS_AFTER);
+    return new Date().getTime() <= upper.getTime();
+  }
+  function formatHireDate(s){
+    var d = parseHireDate(s);
+    if(!d) return s || '';
+    return d.toLocaleDateString(undefined, {month:'short', day:'numeric'});
+  }
+
+  var hireBuddySelect = document.getElementById('hire-buddy');
+  hireBuddySelect.innerHTML = '<option value="">Buddy (optional)</option>' +
+    HIRE_TEAM_NAMES.map(function(n){ return '<option value="'+n+'">'+n+'</option>'; }).join('');
+
+  var hireNameInput = document.getElementById('hire-name');
+  var hireStartInput = document.getElementById('hire-start');
+  var hireSubmit = document.getElementById('hire-submit');
+  var hireStatus = document.getElementById('hire-status');
+
+  var slotTopicInput = document.getElementById('slot-topic');
+  var slotAttendeesEl = document.getElementById('slot-attendees');
+  var slotSubmit = document.getElementById('slot-submit');
+  var slotStatus = document.getElementById('slot-status');
+
+  var rosterListEl = document.getElementById('roster-list');
+  var openSlotsListEl = document.getElementById('open-slots-list');
+  var scheduleListEl = document.getElementById('schedule-list');
+
+  var latestHires = [];
+  var latestSessions = [];
+
+  function activeHiresSorted(){
+    return latestHires.filter(isHireActive).sort(function(a,b){
+      var da = parseHireDate(a.start), db_ = parseHireDate(b.start);
+      if(da && db_) return da - db_;
+      return (a.ts||0) - (b.ts||0);
+    });
+  }
+  function hireColor(name){
+    var active = activeHiresSorted();
+    var idx = -1;
+    active.some(function(h,i){ if(h.name === name){ idx = i; return true; } return false; });
+    return palette[(idx>=0?idx:0) % palette.length];
+  }
+
+  function renderAttendeeCheckboxes(){
+    var active = activeHiresSorted();
+    if(!active.length){
+      slotAttendeesEl.innerHTML = '<span class="attendee-empty">Add a new hire above first.</span>';
+      return;
+    }
+    slotAttendeesEl.innerHTML = active.map(function(h){
+      return '<label class="attendee-chip"><input type="checkbox" value="'+h.name+'"> '+h.name+'</label>';
+    }).join('');
+  }
+
+  function renderRoster(){
+    var active = activeHiresSorted();
+    if(!active.length){
+      rosterListEl.innerHTML = '<div class="roster-empty">No one\'s onboarding right now.</div>';
+      return;
+    }
+    rosterListEl.innerHTML = active.map(function(h){
+      var color = hireColor(h.name);
+      var buddyLine = h.buddy ? ('Buddy: '+h.buddy) : 'No buddy assigned yet';
+      return '<div class="roster-row">' +
+        '<div class="roster-main">' +
+          '<div class="roster-name"><span class="roster-swatch" style="background:'+color+';"></span>'+h.name+'</div>' +
+          '<div class="roster-meta">Starts '+formatHireDate(h.start)+' &middot; '+buddyLine+'</div>' +
+        '</div>' +
+        '<button type="button" class="archive-btn" data-id="'+h.id+'">Mark onboarding done</button>' +
+      '</div>';
+    }).join('');
+  }
+
+  function attendeeTagsHtml(s, activeNames){
+    return (s.attendees||[]).filter(function(n){ return activeNames.indexOf(n) !== -1; }).map(function(n){
+      return '<span class="hire-tag" style="background:'+hireColor(n)+';">'+n+'</span>';
+    }).join(' ');
+  }
+
+  function renderOpenSlots(){
+    var active = activeHiresSorted();
+    var activeNames = active.map(function(h){ return h.name; });
+    var openOnes = latestSessions.filter(function(s){
+      return s.status !== 'claimed' && (s.attendees||[]).some(function(n){ return activeNames.indexOf(n) !== -1; });
+    });
+    if(!openOnes.length){
+      openSlotsListEl.innerHTML = '<div class="empty-note">No open slots right now &mdash; add a topic above.</div>';
+      return;
+    }
+    openSlotsListEl.innerHTML = openOnes.map(function(s){
+      return '<div class="topic-row" data-id="'+s.id+'">' +
+        '<div class="topic-row-head">' +
+          '<div><div class="topic-name">'+s.topic+'</div><div class="topic-tags">'+attendeeTagsHtml(s, activeNames)+'</div></div>' +
+          '<span class="needs-badge">Needs a trainer</span>' +
+          '<span class="topic-chevron">&#9656;</span>' +
+        '</div>' +
+        '<div class="topic-reveal">' +
+          '<div class="claim-form">' +
+            '<input type="text" class="claim-trainer" placeholder="Your name">' +
+            '<select class="claim-day"><option value="">Day</option>' + HIRE_DAYS.map(function(d){ return '<option value="'+d+'">'+d+'</option>'; }).join('') + '</select>' +
+            '<input type="text" class="claim-time" placeholder="Time (e.g. 10:00am)">' +
+            '<button type="button" class="action claim-save" style="margin-top:0;">Claim this slot</button>' +
+          '</div>' +
+        '</div>' +
+      '</div>';
+    }).join('');
+  }
+
+  function renderSchedule(){
+    var active = activeHiresSorted();
+    var activeNames = active.map(function(h){ return h.name; });
+    var claimedOnes = latestSessions.filter(function(s){
+      return s.status === 'claimed' && (s.attendees||[]).some(function(n){ return activeNames.indexOf(n) !== -1; });
+    });
+    if(!claimedOnes.length){
+      scheduleListEl.innerHTML = '<div class="empty-note">Nothing scheduled yet.</div>';
+      return;
+    }
+    var byDay = {};
+    claimedOnes.forEach(function(s){
+      var day = s.day || 'Unscheduled';
+      if(!byDay[day]) byDay[day] = [];
+      byDay[day].push(s);
+    });
+    var dayOrder = HIRE_DAYS.concat(['Unscheduled']);
+    scheduleListEl.innerHTML = dayOrder.filter(function(d){ return byDay[d]; }).map(function(day){
+      var rows = byDay[day].sort(function(a,b){ return (a.time||'').localeCompare(b.time||''); }).map(function(s){
+        return '<div class="topic-row" data-id="'+s.id+'">' +
+          '<div class="topic-row-head">' +
+            '<div><div class="topic-name">'+(s.time?s.time+' &mdash; ':'')+s.topic+'</div><div class="topic-tags">'+attendeeTagsHtml(s, activeNames)+'</div></div>' +
+            '<span class="topic-chevron">&#9656;</span>' +
+          '</div>' +
+          '<div class="topic-reveal">' +
+            '<div class="session-trainer-line">'+(s.trainer?'With '+s.trainer:'No trainer name saved')+'</div>' +
+            '<div class="claim-form">' +
+              '<input type="text" class="claim-trainer" placeholder="Trainer name" value="'+(s.trainer||'')+'">' +
+              '<select class="claim-day">' + HIRE_DAYS.map(function(d){ return '<option value="'+d+'"'+(d===s.day?' selected':'')+'>'+d+'</option>'; }).join('') + '</select>' +
+              '<input type="text" class="claim-time" placeholder="Time" value="'+(s.time||'')+'">' +
+              '<button type="button" class="action claim-save" style="margin-top:0;">Save</button>' +
+              '<button type="button" class="archive-btn claim-reopen">Reopen slot</button>' +
+            '</div>' +
+          '</div>' +
+        '</div>';
+      }).join('');
+      return '<div class="day-title">'+day+'</div>' + rows;
+    }).join('');
+  }
+
+  function toggleRow(el){
+    var row = el.closest('.topic-row');
+    if(!row) return;
+    var wasOpen = row.classList.contains('open');
+    row.parentElement.querySelectorAll('.topic-row.open').forEach(function(r){ if(r !== row) r.classList.remove('open'); });
+    row.classList.toggle('open', !wasOpen);
+  }
+
+  if(!window.claude || !window.claude.use){
+    hireStatus.textContent = "This form isn't available in this view.";
+    hireSubmit.disabled = true;
+    slotSubmit.disabled = true;
+  } else {
+    window.claude.use('db').then(function(db){
+      if(!db){
+        hireStatus.textContent = "This form isn't available in this view.";
+        hireSubmit.disabled = true;
+        slotSubmit.disabled = true;
+        return;
+      }
+      var hireCol = db.collection('new_hires');
+      var sessionCol = db.collection('hire_sessions');
+
+      hireCol.onSnapshot(function(snap){
+        latestHires = snap.empty ? [] : snap.docs.map(function(doc){
+          var d = doc.data() || {};
+          return { id: doc.id, name: d.name, start: d.start, buddy: d.buddy, archived: !!d.archived, ts: d.ts };
+        });
+        renderRoster();
+        renderOpenSlots();
+        renderSchedule();
+        renderAttendeeCheckboxes();
+      }, function(){
+        hireStatus.textContent = "Couldn't load new hires right now.";
+      });
+
+      sessionCol.onSnapshot(function(snap){
+        latestSessions = snap.empty ? [] : snap.docs.map(function(doc){
+          var d = doc.data() || {};
+          return { id: doc.id, topic: d.topic, attendees: d.attendees || [], status: d.status, trainer: d.trainer, day: d.day, time: d.time, ts: d.ts };
+        });
+        renderOpenSlots();
+        renderSchedule();
+      }, function(){
+        slotStatus.textContent = "Couldn't load the schedule right now.";
+      });
+
+      hireSubmit.addEventListener('click', function(){
+        var name = hireNameInput.value.trim();
+        var start = hireStartInput.value;
+        var buddy = hireBuddySelect.value;
+        if(!name){ hireStatus.textContent = 'Give them a name.'; hireStatus.className = 'status-msg err'; return; }
+        if(!start){ hireStatus.textContent = 'Pick a start date.'; hireStatus.className = 'status-msg err'; return; }
+        hireSubmit.disabled = true;
+        hireCol.add({ name: name, start: start, buddy: buddy, archived: false, ts: Date.now() }).then(function(){
+          hireNameInput.value = '';
+          hireStartInput.value = '';
+          hireBuddySelect.value = '';
+          hireStatus.textContent = 'Added ' + name + '.';
+          hireStatus.className = 'status-msg ok';
+          hireSubmit.disabled = false;
+        }).catch(function(){
+          hireStatus.textContent = "Couldn't save that — try again.";
+          hireStatus.className = 'status-msg err';
+          hireSubmit.disabled = false;
+        });
+      });
+
+      rosterListEl.addEventListener('click', function(e){
+        var btn = e.target.closest('.archive-btn');
+        if(!btn) return;
+        if(btn.dataset.armed !== '1'){
+          btn.dataset.armed = '1';
+          btn.textContent = 'Click again to confirm';
+          setTimeout(function(){ btn.dataset.armed = '0'; btn.textContent = 'Mark onboarding done'; }, 4000);
+          return;
+        }
+        hireCol.doc(btn.dataset.id).update({ archived: true }).catch(function(){});
+      });
+
+      slotSubmit.addEventListener('click', function(){
+        var topic = slotTopicInput.value.trim();
+        var checked = [].slice.call(slotAttendeesEl.querySelectorAll('input:checked')).map(function(i){ return i.value; });
+        if(!topic){ slotStatus.textContent = 'Give the topic a name.'; slotStatus.className = 'status-msg err'; return; }
+        if(!checked.length){ slotStatus.textContent = 'Check off who this is for.'; slotStatus.className = 'status-msg err'; return; }
+        slotSubmit.disabled = true;
+        sessionCol.add({ topic: topic, attendees: checked, status: 'open', trainer: '', day: '', time: '', ts: Date.now() }).then(function(){
+          slotTopicInput.value = '';
+          [].slice.call(slotAttendeesEl.querySelectorAll('input:checked')).forEach(function(i){ i.checked = false; });
+          slotStatus.textContent = "Added — it'll show as an open slot until someone claims it.";
+          slotStatus.className = 'status-msg ok';
+          slotSubmit.disabled = false;
+        }).catch(function(){
+          slotStatus.textContent = "Couldn't save that — try again.";
+          slotStatus.className = 'status-msg err';
+          slotSubmit.disabled = false;
+        });
+      });
+
+      openSlotsListEl.addEventListener('click', function(e){
+        var head = e.target.closest('.topic-row-head');
+        if(head){ toggleRow(head); return; }
+        var saveBtn = e.target.closest('.claim-save');
+        if(saveBtn){
+          var row = saveBtn.closest('.topic-row');
+          var trainer = row.querySelector('.claim-trainer').value.trim();
+          var day = row.querySelector('.claim-day').value;
+          var time = row.querySelector('.claim-time').value.trim();
+          if(!trainer || !day || !time) return;
+          sessionCol.doc(row.dataset.id).update({ status: 'claimed', trainer: trainer, day: day, time: time }).catch(function(){});
+        }
+      });
+
+      scheduleListEl.addEventListener('click', function(e){
+        var head = e.target.closest('.topic-row-head');
+        if(head){ toggleRow(head); return; }
+        var row = e.target.closest('.topic-row');
+        if(!row) return;
+        var saveBtn = e.target.closest('.claim-save');
+        if(saveBtn){
+          var trainer = row.querySelector('.claim-trainer').value.trim();
+          var day = row.querySelector('.claim-day').value;
+          var time = row.querySelector('.claim-time').value.trim();
+          if(!trainer || !day || !time) return;
+          sessionCol.doc(row.dataset.id).update({ trainer: trainer, day: day, time: time }).catch(function(){});
+          return;
+        }
+        var reopenBtn = e.target.closest('.claim-reopen');
+        if(reopenBtn){
+          sessionCol.doc(row.dataset.id).update({ status: 'open', trainer: '', day: '', time: '' }).catch(function(){});
+        }
+      });
+    });
+  }
+})();
+</script>
+
+</body></html>

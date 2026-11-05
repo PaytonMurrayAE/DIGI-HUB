@@ -1,0 +1,12 @@
+{
+  "attendees": [
+    "TEST",
+    "Person 2"
+  ],
+  "day": "Tuesday",
+  "status": "claimed",
+  "time": "20:00",
+  "topic": "Catchlight 101",
+  "trainer": "Cam",
+  "ts": 1790615131709
+}

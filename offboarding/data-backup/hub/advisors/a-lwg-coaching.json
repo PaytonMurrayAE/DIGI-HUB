@@ -1,0 +1,20 @@
+{
+  "advisor": "COACHING",
+  "coach": "",
+  "company": "LWG",
+  "dma": "Ella Diederich",
+  "feeTax": null,
+  "hours": 1,
+  "icd": false,
+  "locations": [],
+  "mgmtFee": null,
+  "runs": [
+    "coaching",
+    "events",
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792780615531,
+  "updatedBy": "Brynne"
+}

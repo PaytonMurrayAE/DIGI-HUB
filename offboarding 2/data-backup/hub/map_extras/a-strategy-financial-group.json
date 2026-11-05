@@ -1,0 +1,13 @@
+{
+  "pins": {
+    "kansas-city-mo": [
+      {
+        "label": "Kansas City, MO",
+        "lat": 39.1224,
+        "lng": -94.5551
+      }
+    ]
+  },
+  "updatedAt": 1793204400000,
+  "updatedBy": "Seeded from the heat map"
+}

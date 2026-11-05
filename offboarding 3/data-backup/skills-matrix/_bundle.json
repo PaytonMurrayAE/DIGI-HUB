@@ -1,0 +1,1386 @@
+{
+ "responses": {
+  "ben-vincent": {
+   "name": "Ben Vincent",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 2,
+     "Automation and agents": 2,
+     "Content and creative production": 3,
+     "Judgement and compliance": 3,
+     "Prompting and context setting": 3
+    },
+    "content": {
+     "Asset organization/file management": 5,
+     "Brand voice & messaging consistency": 4,
+     "Copywriting for ads/social/email": 3,
+     "Graphic design basics (Canva or similar)": 5,
+     "Video editing basics": 4,
+     "Working within brand guidelines": 5
+    },
+    "email": {
+     "A/B testing subject lines & content": 1,
+     "Building a drip/nurture sequence": 2,
+     "Deliverability basics": 1,
+     "List segmentation": 1,
+     "Reporting on open/click rates": 1,
+     "Setting up UTM tracking for email campaigns": 1,
+     "Writing an engaging email": 3
+    },
+    "google": {
+     "Budget pacing & bid strategy": 1,
+     "Building Display campaigns": 1,
+     "Building Performance Max campaigns": 1,
+     "Building Search campaigns": 1,
+     "Conversion tracking setup (Google Tag/GA4)": 1,
+     "GA4 reporting for ad campaign performance": 1,
+     "Google My Business (GMB) management for local ads visibility": 1,
+     "Google Search Console basics for ads & indexing issues": 1,
+     "Navigating Google support": 1,
+     "Navigating the Google Ads platform": 1,
+     "Setting up UTM tracking for Google Ads": 1
+    },
+    "landing": {
+     "A/B testing landing pages": 1,
+     "Building a landing page in Instapage": 1,
+     "Building a landing page in Sync": 1,
+     "Connecting forms to CRM/pixels": 1,
+     "Conversion-focused copy & layout": 1,
+     "Mobile responsiveness checks": 2,
+     "Working with custom code elements (HTML, CSS, etc.)": 2
+    },
+    "meta": {
+     "A/B testing ad creative": 1,
+     "Account creation and partnership access": 1,
+     "Audience building & targeting": 1,
+     "Building basic lead generation campaigns": 1,
+     "Data analysis of campaign performance": 1,
+     "Installation of Conversions API": 1,
+     "Installation of Meta pixels": 1,
+     "Navigating Ads Manager": 1,
+     "Ongoing campaign optimizations": 1,
+     "Setting up UTM tracking for Meta ads": 1,
+     "Troubleshooting with Meta support": 1
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 1,
+     "Google Search Console monitoring for SEO performance": 1,
+     "Keyword research": 1,
+     "Link building fundamentals": 1,
+     "Local SEO / GMB optimization": 1,
+     "On-page SEO (titles, meta, headers)": 1,
+     "Reporting on SEO performance": 1,
+     "Technical SEO basics": 1
+    },
+    "social": {
+     "Community management (comments/DMs)": 2,
+     "Content cadences & scheduling": 2,
+     "Facebook best practices": 3,
+     "Instagram best practices": 3,
+     "LinkedIn best practices": 1,
+     "Optimizing content for engagement": 4,
+     "Planning multi-media organic marketing": 2,
+     "Staying current with the FB algorithm/best posting times": 1,
+     "Writing an engaging Facebook post": 3
+    },
+    "sync": {
+     "Automations & triggers": 1,
+     "Building a campaign/workflow in Sync": 1,
+     "Navigating the Sync platform": 2,
+     "Pipeline/opportunity management": 1,
+     "Setting up a Sync calendar": 1,
+     "Troubleshooting with Sync support": 1
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 1,
+     "Attribution basics (multi-touch vs. last-click)": 1,
+     "Building client-facing dashboards/reports": 1,
+     "Building cross-channel performance reports": 1,
+     "Catchlight": 1,
+     "Data analysis & trend spotting": 1,
+     "GA4 navigation & reporting (site-wide behavior)": 1,
+     "Instapage": 1,
+     "Lucidchart": 1,
+     "Prompting Claude": 3,
+     "Slack": 3,
+     "Superads": 3,
+     "Workfront": 4
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 1,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 1,
+     "Campaign performance analysis": 1,
+     "Navigating YouTube/Google Ads video campaigns": 1,
+     "Troubleshooting video ad delivery": 1,
+     "Video ad creative specs & best practices": 1
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 1,
+     "Channel setup & branding": 3,
+     "Community engagement (comments, community tab)": 1,
+     "Thumbnail best practices": 2,
+     "Video SEO (titles, descriptions, tags)": 1
+    }
+   },
+   "updatedAt": "2026-10-08T14:41:30.034Z"
+  },
+  "brynne-liedtke": {
+   "name": "Brynne Liedtke",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 2,
+     "Automation and agents": 2,
+     "Content and creative production": 3,
+     "Judgement and compliance": 1,
+     "Prompting and context setting": 3
+    },
+    "content": {
+     "Asset organization/file management": 2,
+     "Brand voice & messaging consistency": 2,
+     "Copywriting for ads/social/email": 1,
+     "Graphic design basics (Canva or similar)": 4,
+     "Video editing basics": 4,
+     "Working within brand guidelines": 4
+    },
+    "email": {
+     "A/B testing subject lines & content": 2,
+     "Building a drip/nurture sequence": 2,
+     "Deliverability basics": 2,
+     "List segmentation": 2,
+     "Reporting on open/click rates": 3,
+     "Setting up UTM tracking for email campaigns": 1,
+     "Writing an engaging email": 3
+    },
+    "google": {
+     "Budget pacing & bid strategy": 1,
+     "Building Display campaigns": 1,
+     "Building Performance Max campaigns": 1,
+     "Building Search campaigns": 1,
+     "Conversion tracking setup (Google Tag/GA4)": 1,
+     "GA4 reporting for ad campaign performance": 1,
+     "Google My Business (GMB) management for local ads visibility": 1,
+     "Google Search Console basics for ads & indexing issues": 1,
+     "Navigating Google support": 1,
+     "Navigating the Google Ads platform": 1,
+     "Setting up UTM tracking for Google Ads": 1
+    },
+    "landing": {
+     "A/B testing landing pages": 1,
+     "Building a landing page in Instapage": 3,
+     "Building a landing page in Sync": 2,
+     "Connecting forms to CRM/pixels": 3,
+     "Conversion-focused copy & layout": 1,
+     "Mobile responsiveness checks": 1,
+     "Working with custom code elements (HTML, CSS, etc.)": 2
+    },
+    "meta": {
+     "A/B testing ad creative": 1,
+     "Account creation and partnership access": 2,
+     "Audience building & targeting": 2,
+     "Building basic lead generation campaigns": 3,
+     "Data analysis of campaign performance": 3,
+     "Installation of Conversions API": 2,
+     "Installation of Meta pixels": 3,
+     "Navigating Ads Manager": 3,
+     "Ongoing campaign optimizations": 1,
+     "Setting up UTM tracking for Meta ads": 1,
+     "Troubleshooting with Meta support": 1
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 1,
+     "Google Search Console monitoring for SEO performance": 1,
+     "Keyword research": 1,
+     "Link building fundamentals": 1,
+     "Local SEO / GMB optimization": 1,
+     "On-page SEO (titles, meta, headers)": 1,
+     "Reporting on SEO performance": 1,
+     "Technical SEO basics": 1
+    },
+    "social": {
+     "Community management (comments/DMs)": 4,
+     "Content cadences & scheduling": 4,
+     "Facebook best practices": 4,
+     "Instagram best practices": 4,
+     "LinkedIn best practices": 4,
+     "Optimizing content for engagement": 4,
+     "Planning multi-media organic marketing": 4,
+     "Staying current with the FB algorithm/best posting times": 4,
+     "Writing an engaging Facebook post": 4
+    },
+    "sync": {
+     "Automations & triggers": 2,
+     "Building a campaign/workflow in Sync": 2,
+     "Navigating the Sync platform": 2,
+     "Pipeline/opportunity management": 3,
+     "Setting up a Sync calendar": 3,
+     "Troubleshooting with Sync support": 1
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 1,
+     "Attribution basics (multi-touch vs. last-click)": 3,
+     "Building client-facing dashboards/reports": 4,
+     "Building cross-channel performance reports": 4,
+     "Catchlight": 2,
+     "Data analysis & trend spotting": 3,
+     "GA4 navigation & reporting (site-wide behavior)": 1,
+     "Instapage": 3,
+     "Lucidchart": 2,
+     "Prompting Claude": 3,
+     "Slack": 1,
+     "Superads": 3,
+     "Workfront": 1
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 2,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 4,
+     "Campaign performance analysis": 3,
+     "Navigating YouTube/Google Ads video campaigns": 3,
+     "Troubleshooting video ad delivery": 1,
+     "Video ad creative specs & best practices": 3
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 3,
+     "Channel setup & branding": 5,
+     "Community engagement (comments, community tab)": 4,
+     "Content planning/cadence for YouTube": 5,
+     "Thumbnail best practices": 3,
+     "Video SEO (titles, descriptions, tags)": 2
+    }
+   },
+   "updatedAt": "2026-10-20T20:41:32.090Z"
+  },
+  "cameron-cogswell": {
+   "name": "Cameron Cogswell",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 4,
+     "Automation and agents": 3,
+     "Content and creative production": 3,
+     "Judgement and compliance": 2,
+     "Prompting and context setting": 3
+    },
+    "content": {
+     "Asset organization/file management": 3,
+     "Brand voice & messaging consistency": 3,
+     "Copywriting for ads/social/email": 3,
+     "Graphic design basics (Canva or similar)": 3,
+     "Video editing basics": 3,
+     "Working within brand guidelines": 3
+    },
+    "email": {
+     "A/B testing subject lines & content": 3,
+     "Building a drip/nurture sequence": 3,
+     "Deliverability basics": 3,
+     "List segmentation": 2,
+     "Reporting on open/click rates": 3,
+     "Setting up UTM tracking for email campaigns": 3,
+     "Writing an engaging email": 3
+    },
+    "google": {
+     "Budget pacing & bid strategy": 3,
+     "Building Display campaigns": 3,
+     "Building Performance Max campaigns": 3,
+     "Building Search campaigns": 4,
+     "Conversion tracking setup (Google Tag/GA4)": 4,
+     "GA4 reporting for ad campaign performance": 3,
+     "Google My Business (GMB) management for local ads visibility": 4,
+     "Google Search Console basics for ads & indexing issues": 3,
+     "Navigating Google support": 4,
+     "Navigating the Google Ads platform": 3,
+     "Setting up UTM tracking for Google Ads": 3
+    },
+    "landing": {
+     "A/B testing landing pages": 4,
+     "Building a landing page in Instapage": 4,
+     "Building a landing page in Sync": 4,
+     "Connecting forms to CRM/pixels": 4,
+     "Conversion-focused copy & layout": 3,
+     "Mobile responsiveness checks": 4,
+     "Working with custom code elements (HTML, CSS, etc.)": 3
+    },
+    "meta": {
+     "A/B testing ad creative": 4,
+     "Account creation and partnership access": 3,
+     "Audience building & targeting": 3,
+     "Building basic lead generation campaigns": 5,
+     "Data analysis of campaign performance": 4,
+     "Installation of Conversions API": 3,
+     "Installation of Meta pixels": 4,
+     "Navigating Ads Manager": 4,
+     "Ongoing campaign optimizations": 5,
+     "Setting up UTM tracking for Meta ads": 3,
+     "Troubleshooting with Meta support": 4
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 2,
+     "Google Search Console monitoring for SEO performance": 4,
+     "Keyword research": 4,
+     "Link building fundamentals": 3,
+     "Local SEO / GMB optimization": 4,
+     "On-page SEO (titles, meta, headers)": 4,
+     "Reporting on SEO performance": 4,
+     "Technical SEO basics": 4
+    },
+    "social": {
+     "Community management (comments/DMs)": 3,
+     "Content cadences & scheduling": 4,
+     "Facebook best practices": 3,
+     "Instagram best practices": 3,
+     "LinkedIn best practices": 2,
+     "Optimizing content for engagement": 3,
+     "Planning multi-media organic marketing": 4,
+     "Staying current with the FB algorithm/best posting times": 3,
+     "Writing an engaging Facebook post": 4
+    },
+    "sync": {
+     "Automations & triggers": 3,
+     "Building a campaign/workflow in Sync": 3,
+     "Navigating the Sync platform": 3,
+     "Pipeline/opportunity management": 3,
+     "Setting up a Sync calendar": 3,
+     "Troubleshooting with Sync support": 3
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 4,
+     "Attribution basics (multi-touch vs. last-click)": 4,
+     "Building client-facing dashboards/reports": 4,
+     "Building cross-channel performance reports": 4,
+     "Catchlight": 4,
+     "Data analysis & trend spotting": 4,
+     "GA4 navigation & reporting (site-wide behavior)": 4,
+     "Instapage": 5,
+     "Lucidchart": 4,
+     "Prompting Claude": 3,
+     "Slack": 2,
+     "Superads": 4,
+     "Workfront": 3
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 3,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 2,
+     "Campaign performance analysis": 2,
+     "Navigating YouTube/Google Ads video campaigns": 3,
+     "Troubleshooting video ad delivery": 3,
+     "Video ad creative specs & best practices": 2
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 2,
+     "Channel setup & branding": 4,
+     "Community engagement (comments, community tab)": 2,
+     "Content planning/cadence for YouTube": 3,
+     "Thumbnail best practices": 3,
+     "Video SEO (titles, descriptions, tags)": 4
+    }
+   },
+   "updatedAt": "2026-10-08T14:47:12.298Z"
+  },
+  "ella-diederich": {
+   "name": "Ella Diederich",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 3,
+     "Automation and agents": 2,
+     "Content and creative production": 2,
+     "Judgement and compliance": 2,
+     "Prompting and context setting": 3
+    },
+    "content": {
+     "Asset organization/file management": 3,
+     "Brand voice & messaging consistency": 3,
+     "Copywriting for ads/social/email": 2,
+     "Graphic design basics (Canva or similar)": 3,
+     "Video editing basics": 2,
+     "Working within brand guidelines": 3
+    },
+    "email": {
+     "A/B testing subject lines & content": 4,
+     "Building a drip/nurture sequence": 3,
+     "Deliverability basics": 3,
+     "List segmentation": 2,
+     "Reporting on open/click rates": 4,
+     "Setting up UTM tracking for email campaigns": 2,
+     "Writing an engaging email": 2
+    },
+    "google": {
+     "Budget pacing & bid strategy": 1,
+     "Building Display campaigns": 1,
+     "Building Performance Max campaigns": 1,
+     "Building Search campaigns": 1,
+     "Conversion tracking setup (Google Tag/GA4)": 1,
+     "GA4 reporting for ad campaign performance": 1,
+     "Google My Business (GMB) management for local ads visibility": 1,
+     "Google Search Console basics for ads & indexing issues": 1,
+     "Navigating Google support": 1,
+     "Navigating the Google Ads platform": 2,
+     "Setting up UTM tracking for Google Ads": 1
+    },
+    "landing": {
+     "A/B testing landing pages": 3,
+     "Building a landing page in Instapage": 1,
+     "Building a landing page in Sync": 4,
+     "Connecting forms to CRM/pixels": 1,
+     "Conversion-focused copy & layout": 2,
+     "Mobile responsiveness checks": 3,
+     "Working with custom code elements (HTML, CSS, etc.)": 3
+    },
+    "meta": {
+     "A/B testing ad creative": 4,
+     "Account creation and partnership access": 3,
+     "Audience building & targeting": 3,
+     "Building basic lead generation campaigns": 4,
+     "Data analysis of campaign performance": 4,
+     "Installation of Conversions API": 2,
+     "Installation of Meta pixels": 3,
+     "Navigating Ads Manager": 4,
+     "Ongoing campaign optimizations": 4,
+     "Setting up UTM tracking for Meta ads": 4,
+     "Troubleshooting with Meta support": 3
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 1,
+     "Google Search Console monitoring for SEO performance": 1,
+     "Keyword research": 2,
+     "Link building fundamentals": 1,
+     "Local SEO / GMB optimization": 1,
+     "On-page SEO (titles, meta, headers)": 2,
+     "Reporting on SEO performance": 1,
+     "Technical SEO basics": 2
+    },
+    "social": {
+     "Community management (comments/DMs)": 2,
+     "Content cadences & scheduling": 2,
+     "Facebook best practices": 2,
+     "Instagram best practices": 2,
+     "LinkedIn best practices": 1,
+     "Optimizing content for engagement": 2,
+     "Planning multi-media organic marketing": 2,
+     "Staying current with the FB algorithm/best posting times": 2,
+     "Writing an engaging Facebook post": 2
+    },
+    "sync": {
+     "Automations & triggers": 4,
+     "Building a campaign/workflow in Sync": 4,
+     "Navigating the Sync platform": 4,
+     "Pipeline/opportunity management": 4,
+     "Setting up a Sync calendar": 4,
+     "Troubleshooting with Sync support": 4
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 1,
+     "Attribution basics (multi-touch vs. last-click)": 1,
+     "Building client-facing dashboards/reports": 3,
+     "Building cross-channel performance reports": 1,
+     "Catchlight": 4,
+     "Data analysis & trend spotting": 3,
+     "GA4 navigation & reporting (site-wide behavior)": 1,
+     "Instapage": 1,
+     "Lucidchart": 4,
+     "Prompting Claude": 3,
+     "Slack": 2,
+     "Superads": 3,
+     "Workfront": 3
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 1,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 1,
+     "Campaign performance analysis": 1,
+     "Navigating YouTube/Google Ads video campaigns": 1,
+     "Troubleshooting video ad delivery": 1,
+     "Video ad creative specs & best practices": 1
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 1,
+     "Channel setup & branding": 1,
+     "Community engagement (comments, community tab)": 1,
+     "Content planning/cadence for YouTube": 1,
+     "Thumbnail best practices": 1,
+     "Video SEO (titles, descriptions, tags)": 1
+    }
+   },
+   "updatedAt": "2026-10-08T14:48:05.036Z"
+  },
+  "emily-juarez": {
+   "name": "Emily Juarez",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "Compliance",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 2,
+     "Automation and agents": 1,
+     "Content and creative production": 2,
+     "Judgement and compliance": 3,
+     "Prompting and context setting": 2
+    },
+    "content": {
+     "Asset organization/file management": 4,
+     "Brand voice & messaging consistency": 3,
+     "Copywriting for ads/social/email": 3,
+     "Graphic design basics (Canva or similar)": 3,
+     "Video editing basics": 2,
+     "Working within brand guidelines": 4
+    },
+    "email": {
+     "A/B testing subject lines & content": 1,
+     "Building a drip/nurture sequence": 3,
+     "Deliverability basics": 1,
+     "List segmentation": 1,
+     "Reporting on open/click rates": 3,
+     "Setting up UTM tracking for email campaigns": 1,
+     "Writing an engaging email": 3
+    },
+    "google": {
+     "Budget pacing & bid strategy": 1,
+     "Building Display campaigns": 1,
+     "Building Performance Max campaigns": 1,
+     "Building Search campaigns": 2,
+     "Conversion tracking setup (Google Tag/GA4)": 2,
+     "GA4 reporting for ad campaign performance": 1,
+     "Google My Business (GMB) management for local ads visibility": 3,
+     "Google Search Console basics for ads & indexing issues": 1,
+     "Navigating Google support": 1,
+     "Navigating the Google Ads platform": 2,
+     "Setting up UTM tracking for Google Ads": 1
+    },
+    "landing": {
+     "A/B testing landing pages": 3,
+     "Building a landing page in Instapage": 1,
+     "Building a landing page in Sync": 4,
+     "Connecting forms to CRM/pixels": 2,
+     "Conversion-focused copy & layout": 1,
+     "Mobile responsiveness checks": 1,
+     "Working with custom code elements (HTML, CSS, etc.)": 2
+    },
+    "meta": {
+     "A/B testing ad creative": 4,
+     "Account creation and partnership access": 3,
+     "Audience building & targeting": 4,
+     "Building basic lead generation campaigns": 5,
+     "Data analysis of campaign performance": 3,
+     "Installation of Conversions API": 1,
+     "Installation of Meta pixels": 3,
+     "Navigating Ads Manager": 4,
+     "Ongoing campaign optimizations": 3,
+     "Setting up UTM tracking for Meta ads": 4,
+     "Troubleshooting with Meta support": 3
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 1,
+     "Google Search Console monitoring for SEO performance": 1,
+     "Keyword research": 1,
+     "Link building fundamentals": 1,
+     "Local SEO / GMB optimization": 1,
+     "On-page SEO (titles, meta, headers)": 1,
+     "Reporting on SEO performance": 1,
+     "Technical SEO basics": 1
+    },
+    "social": {
+     "Community management (comments/DMs)": 4,
+     "Content cadences & scheduling": 4,
+     "Facebook best practices": 2,
+     "Instagram best practices": 3,
+     "LinkedIn best practices": 2,
+     "Optimizing content for engagement": 3,
+     "Planning multi-media organic marketing": 3,
+     "Staying current with the FB algorithm/best posting times": 3,
+     "Writing an engaging Facebook post": 3
+    },
+    "sync": {
+     "Automations & triggers": 3,
+     "Building a campaign/workflow in Sync": 3,
+     "Navigating the Sync platform": 4,
+     "Pipeline/opportunity management": 3,
+     "Setting up a Sync calendar": 4,
+     "Troubleshooting with Sync support": 3
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 3,
+     "Attribution basics (multi-touch vs. last-click)": 1,
+     "Building client-facing dashboards/reports": 1,
+     "Building cross-channel performance reports": 1,
+     "Catchlight": 4,
+     "Data analysis & trend spotting": 2,
+     "GA4 navigation & reporting (site-wide behavior)": 1,
+     "Instapage": 1,
+     "Lucidchart": 2,
+     "Prompting Claude": 1,
+     "Slack": 1,
+     "Superads": 1,
+     "Workfront": 4
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 1,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 1,
+     "Campaign performance analysis": 1,
+     "Navigating YouTube/Google Ads video campaigns": 1,
+     "Troubleshooting video ad delivery": 1,
+     "Video ad creative specs & best practices": 1
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 1,
+     "Channel setup & branding": 2,
+     "Community engagement (comments, community tab)": 2,
+     "Content planning/cadence for YouTube": 2,
+     "Thumbnail best practices": 2,
+     "Video SEO (titles, descriptions, tags)": 2
+    }
+   },
+   "updatedAt": "2026-10-08T14:47:46.655Z"
+  },
+  "jack-mcmillen": {
+   "name": "Jack McMillen",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 3,
+     "Automation and agents": 2,
+     "Content and creative production": 3,
+     "Judgement and compliance": 2,
+     "Prompting and context setting": 3
+    },
+    "content": {
+     "Asset organization/file management": 3,
+     "Brand voice & messaging consistency": 2,
+     "Copywriting for ads/social/email": 2,
+     "Graphic design basics (Canva or similar)": 3,
+     "Video editing basics": 4,
+     "Working within brand guidelines": 3
+    },
+    "email": {
+     "A/B testing subject lines & content": 3,
+     "Building a drip/nurture sequence": 4,
+     "Deliverability basics": 4,
+     "List segmentation": 4,
+     "Reporting on open/click rates": 4,
+     "Setting up UTM tracking for email campaigns": 3,
+     "Writing an engaging email": 3
+    },
+    "google": {
+     "Budget pacing & bid strategy": 3,
+     "Building Display campaigns": 3,
+     "Building Performance Max campaigns": 2,
+     "Building Search campaigns": 3,
+     "Conversion tracking setup (Google Tag/GA4)": 4,
+     "GA4 reporting for ad campaign performance": 3,
+     "Google My Business (GMB) management for local ads visibility": 3,
+     "Google Search Console basics for ads & indexing issues": 3,
+     "Navigating Google support": 2,
+     "Navigating the Google Ads platform": 3,
+     "Setting up UTM tracking for Google Ads": 3
+    },
+    "landing": {
+     "A/B testing landing pages": 3,
+     "Building a landing page in Instapage": 3,
+     "Building a landing page in Sync": 4,
+     "Connecting forms to CRM/pixels": 3,
+     "Conversion-focused copy & layout": 3,
+     "Mobile responsiveness checks": 4,
+     "Working with custom code elements (HTML, CSS, etc.)": 3
+    },
+    "meta": {
+     "A/B testing ad creative": 4,
+     "Account creation and partnership access": 4,
+     "Audience building & targeting": 4,
+     "Building basic lead generation campaigns": 5,
+     "Data analysis of campaign performance": 4,
+     "Installation of Conversions API": 4,
+     "Installation of Meta pixels": 4,
+     "Navigating Ads Manager": 4,
+     "Ongoing campaign optimizations": 4,
+     "Setting up UTM tracking for Meta ads": 4,
+     "Troubleshooting with Meta support": 3
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 2,
+     "Google Search Console monitoring for SEO performance": 2,
+     "Keyword research": 3,
+     "Link building fundamentals": 2,
+     "Local SEO / GMB optimization": 2,
+     "On-page SEO (titles, meta, headers)": 3,
+     "Reporting on SEO performance": 2,
+     "Technical SEO basics": 2
+    },
+    "social": {
+     "Community management (comments/DMs)": 2,
+     "Content cadences & scheduling": 3,
+     "Facebook best practices": 3,
+     "Instagram best practices": 3,
+     "LinkedIn best practices": 3,
+     "Optimizing content for engagement": 3,
+     "Planning multi-media organic marketing": 3,
+     "Staying current with the FB algorithm/best posting times": 2,
+     "Writing an engaging Facebook post": 2
+    },
+    "sync": {
+     "Automations & triggers": 3,
+     "Building a campaign/workflow in Sync": 4,
+     "Navigating the Sync platform": 4,
+     "Pipeline/opportunity management": 3,
+     "Setting up a Sync calendar": 4,
+     "Troubleshooting with Sync support": 3
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 3,
+     "Attribution basics (multi-touch vs. last-click)": 3,
+     "Building client-facing dashboards/reports": 3,
+     "Building cross-channel performance reports": 3,
+     "Catchlight": 3,
+     "Data analysis & trend spotting": 3,
+     "GA4 navigation & reporting (site-wide behavior)": 3,
+     "Instapage": 3,
+     "Lucidchart": 3,
+     "Prompting Claude": 3,
+     "Slack": 3,
+     "Superads": 3,
+     "Workfront": 3
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 3,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 2,
+     "Campaign performance analysis": 3,
+     "Navigating YouTube/Google Ads video campaigns": 3,
+     "Troubleshooting video ad delivery": 3,
+     "Video ad creative specs & best practices": 3
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 3,
+     "Channel setup & branding": 2,
+     "Community engagement (comments, community tab)": 2,
+     "Content planning/cadence for YouTube": 2,
+     "Thumbnail best practices": 3,
+     "Video SEO (titles, descriptions, tags)": 3
+    }
+   },
+   "updatedAt": "2026-10-08T14:45:53.954Z"
+  },
+  "makenna-meyer": {
+   "name": "MaKenna Meyer",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {},
+    "content": {
+     "Asset organization/file management": 2,
+     "Brand voice & messaging consistency": 4,
+     "Copywriting for ads/social/email": 2,
+     "Graphic design basics (Canva or similar)": 4,
+     "Video editing basics": 4,
+     "Working within brand guidelines": 4
+    },
+    "email": {
+     "A/B testing subject lines & content": 1,
+     "Building a drip/nurture sequence": 2,
+     "Deliverability basics": 1,
+     "List segmentation": 1,
+     "Reporting on open/click rates": 1,
+     "Setting up UTM tracking for email campaigns": 1,
+     "Writing an engaging email": 4
+    },
+    "google": {
+     "Budget pacing & bid strategy": 1,
+     "Building Display campaigns": 2,
+     "Building Performance Max campaigns": 1,
+     "Building Search campaigns": 1,
+     "Conversion tracking setup (Google Tag/GA4)": 1,
+     "GA4 reporting for ad campaign performance": 1,
+     "Google My Business (GMB) management for local ads visibility": 1,
+     "Google Search Console basics for ads & indexing issues": 1,
+     "Navigating Google support": 1,
+     "Navigating the Google Ads platform": 1,
+     "Setting up UTM tracking for Google Ads": 1
+    },
+    "landing": {
+     "A/B testing landing pages": 2,
+     "Building a landing page in Instapage": 4,
+     "Building a landing page in Sync": 5,
+     "Connecting forms to CRM/pixels": 1,
+     "Conversion-focused copy & layout": 4,
+     "Mobile responsiveness checks": 4,
+     "Working with custom code elements (HTML, CSS, etc.)": 5
+    },
+    "meta": {
+     "A/B testing ad creative": 1,
+     "Account creation and partnership access": 1,
+     "Audience building & targeting": 4,
+     "Building basic lead generation campaigns": 1,
+     "Data analysis of campaign performance": 2,
+     "Installation of Conversions API": 1,
+     "Installation of Meta pixels": 1,
+     "Navigating Ads Manager": 2,
+     "Ongoing campaign optimizations": 2,
+     "Setting up UTM tracking for Meta ads": 1,
+     "Troubleshooting with Meta support": 1
+    },
+    "seo": {
+     "Google Search Console monitoring for SEO performance": 1,
+     "Keyword research": 1,
+     "Link building fundamentals": 1,
+     "Local SEO / GMB optimization": 1,
+     "On-page SEO (titles, meta, headers)": 1,
+     "Reporting on SEO performance": 1,
+     "Technical SEO basics": 1
+    },
+    "social": {
+     "Community management (comments/DMs)": 4,
+     "Content cadences & scheduling": 4,
+     "Facebook best practices": 4,
+     "Instagram best practices": 4,
+     "LinkedIn best practices": 4,
+     "Optimizing content for engagement": 4,
+     "Planning multi-media organic marketing": 4,
+     "Staying current with the FB algorithm/best posting times": 4,
+     "Writing an engaging Facebook post": 4
+    },
+    "sync": {
+     "Automations & triggers": 2,
+     "Building a campaign/workflow in Sync": 3,
+     "Navigating the Sync platform": 4,
+     "Pipeline/opportunity management": 2,
+     "Setting up a Sync calendar": 1,
+     "Troubleshooting with Sync support": 3
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 1,
+     "Attribution basics (multi-touch vs. last-click)": 2,
+     "Building client-facing dashboards/reports": 3,
+     "Building cross-channel performance reports": 3,
+     "Catchlight": 1,
+     "Data analysis & trend spotting": 3,
+     "GA4 navigation & reporting (site-wide behavior)": 1,
+     "Instapage": 1,
+     "Lucidchart": 1,
+     "Prompting Claude": 4,
+     "Slack": 1,
+     "Superads": 1,
+     "Workfront": 1
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 4,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 4,
+     "Campaign performance analysis": 3,
+     "Navigating YouTube/Google Ads video campaigns": 2,
+     "Troubleshooting video ad delivery": 2,
+     "Video ad creative specs & best practices": 2
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 3,
+     "Channel setup & branding": 4,
+     "Community engagement (comments, community tab)": 4,
+     "Content planning/cadence for YouTube": 4,
+     "Thumbnail best practices": 4,
+     "Video SEO (titles, descriptions, tags)": 4
+    }
+   },
+   "updatedAt": "2026-10-09T19:26:16.317Z"
+  },
+  "payton-murray": {
+   "name": "Payton Murray",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 5,
+     "Automation and agents": 4,
+     "Content and creative production": 5,
+     "Judgement and compliance": 3,
+     "Prompting and context setting": 5
+    },
+    "content": {
+     "Asset organization/file management": 4,
+     "Brand voice & messaging consistency": 3,
+     "Copywriting for ads/social/email": 4,
+     "Graphic design basics (Canva or similar)": 3,
+     "Video editing basics": 5,
+     "Working within brand guidelines": 4
+    },
+    "email": {
+     "A/B testing subject lines & content": 2,
+     "Building a drip/nurture sequence": 3,
+     "Deliverability basics": 4,
+     "List segmentation": 3,
+     "Reporting on open/click rates": 4,
+     "Setting up UTM tracking for email campaigns": 3,
+     "Writing an engaging email": 3
+    },
+    "google": {
+     "Budget pacing & bid strategy": 3,
+     "Building Display campaigns": 4,
+     "Building Performance Max campaigns": 3,
+     "Building Search campaigns": 3,
+     "Conversion tracking setup (Google Tag/GA4)": 3,
+     "GA4 reporting for ad campaign performance": 3,
+     "Google My Business (GMB) management for local ads visibility": 3,
+     "Google Search Console basics for ads & indexing issues": 3,
+     "Navigating Google support": 3,
+     "Navigating the Google Ads platform": 3,
+     "Setting up UTM tracking for Google Ads": 3
+    },
+    "landing": {
+     "A/B testing landing pages": 2,
+     "Building a landing page in Instapage": 2,
+     "Building a landing page in Sync": 3,
+     "Connecting forms to CRM/pixels": 2,
+     "Conversion-focused copy & layout": 3,
+     "Mobile responsiveness checks": 3,
+     "Working with custom code elements (HTML, CSS, etc.)": 2
+    },
+    "meta": {
+     "A/B testing ad creative": 3,
+     "Account creation and partnership access": 4,
+     "Audience building & targeting": 4,
+     "Building basic lead generation campaigns": 4,
+     "Data analysis of campaign performance": 4,
+     "Installation of Conversions API": 2,
+     "Installation of Meta pixels": 2,
+     "Navigating Ads Manager": 4,
+     "Ongoing campaign optimizations": 4,
+     "Setting up UTM tracking for Meta ads": 3,
+     "Troubleshooting with Meta support": 4
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 3,
+     "Google Search Console monitoring for SEO performance": 4,
+     "Keyword research": 3,
+     "Link building fundamentals": 4,
+     "Local SEO / GMB optimization": 3,
+     "On-page SEO (titles, meta, headers)": 3,
+     "Reporting on SEO performance": 4,
+     "Technical SEO basics": 3
+    },
+    "social": {
+     "Community management (comments/DMs)": 3,
+     "Content cadences & scheduling": 2,
+     "Facebook best practices": 3,
+     "Instagram best practices": 5,
+     "LinkedIn best practices": 3,
+     "Optimizing content for engagement": 2,
+     "Planning multi-media organic marketing": 3,
+     "Staying current with the FB algorithm/best posting times": 3,
+     "Writing an engaging Facebook post": 4
+    },
+    "sync": {
+     "Automations & triggers": 2,
+     "Building a campaign/workflow in Sync": 2,
+     "Navigating the Sync platform": 2,
+     "Pipeline/opportunity management": 2,
+     "Setting up a Sync calendar": 2,
+     "Troubleshooting with Sync support": 1
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 3,
+     "Attribution basics (multi-touch vs. last-click)": 3,
+     "Building client-facing dashboards/reports": 4,
+     "Building cross-channel performance reports": 3,
+     "Catchlight": 2,
+     "Data analysis & trend spotting": 3,
+     "GA4 navigation & reporting (site-wide behavior)": 3,
+     "Instapage": 2,
+     "Lucidchart": 2,
+     "Prompting Claude": 5,
+     "Slack": 2,
+     "Superads": 2,
+     "Workfront": 2
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 3,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 4,
+     "Campaign performance analysis": 3,
+     "Navigating YouTube/Google Ads video campaigns": 4,
+     "Troubleshooting video ad delivery": 3,
+     "Video ad creative specs & best practices": 3
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 4,
+     "Channel setup & branding": 3,
+     "Community engagement (comments, community tab)": 3,
+     "Content planning/cadence for YouTube": 3,
+     "Thumbnail best practices": 4,
+     "Video SEO (titles, descriptions, tags)": 4
+    }
+   },
+   "updatedAt": "2026-10-08T14:43:03.666Z"
+  },
+  "santi-cisneros": {
+   "name": "Santi Cisneros",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 4,
+     "Automation and agents": 4,
+     "Content and creative production": 2,
+     "Judgement and compliance": 3,
+     "Prompting and context setting": 2
+    },
+    "content": {
+     "Asset organization/file management": 1,
+     "Brand voice & messaging consistency": 1,
+     "Copywriting for ads/social/email": 1,
+     "Graphic design basics (Canva or similar)": 1,
+     "Video editing basics": 1,
+     "Working within brand guidelines": 1
+    },
+    "email": {
+     "A/B testing subject lines & content": 1,
+     "Building a drip/nurture sequence": 1,
+     "Deliverability basics": 1,
+     "List segmentation": 1,
+     "Reporting on open/click rates": 1,
+     "Setting up UTM tracking for email campaigns": 1,
+     "Writing an engaging email": 3
+    },
+    "google": {
+     "Budget pacing & bid strategy": 1,
+     "Building Display campaigns": 1,
+     "Building Performance Max campaigns": 1,
+     "Building Search campaigns": 1,
+     "Conversion tracking setup (Google Tag/GA4)": 1,
+     "GA4 reporting for ad campaign performance": 1,
+     "Google My Business (GMB) management for local ads visibility": 1,
+     "Google Search Console basics for ads & indexing issues": 1,
+     "Navigating Google support": 1,
+     "Navigating the Google Ads platform": 1,
+     "Setting up UTM tracking for Google Ads": 1
+    },
+    "landing": {
+     "A/B testing landing pages": 1,
+     "Building a landing page in Instapage": 1,
+     "Building a landing page in Sync": 3,
+     "Connecting forms to CRM/pixels": 2,
+     "Conversion-focused copy & layout": 1,
+     "Mobile responsiveness checks": 1,
+     "Working with custom code elements (HTML, CSS, etc.)": 1
+    },
+    "meta": {
+     "A/B testing ad creative": 2,
+     "Account creation and partnership access": 1,
+     "Audience building & targeting": 2,
+     "Building basic lead generation campaigns": 3,
+     "Data analysis of campaign performance": 2,
+     "Installation of Conversions API": 1,
+     "Installation of Meta pixels": 3,
+     "Navigating Ads Manager": 3,
+     "Ongoing campaign optimizations": 2,
+     "Setting up UTM tracking for Meta ads": 1,
+     "Troubleshooting with Meta support": 1
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 1,
+     "Google Search Console monitoring for SEO performance": 1,
+     "Keyword research": 1,
+     "Link building fundamentals": 1,
+     "Local SEO / GMB optimization": 1,
+     "On-page SEO (titles, meta, headers)": 1,
+     "Reporting on SEO performance": 1,
+     "Technical SEO basics": 1
+    },
+    "social": {
+     "Community management (comments/DMs)": 1,
+     "Content cadences & scheduling": 1,
+     "Facebook best practices": 1,
+     "Instagram best practices": 1,
+     "LinkedIn best practices": 1,
+     "Optimizing content for engagement": 1,
+     "Planning multi-media organic marketing": 1,
+     "Staying current with the FB algorithm/best posting times": 1,
+     "Writing an engaging Facebook post": 1
+    },
+    "sync": {
+     "Automations & triggers": 4,
+     "Building a campaign/workflow in Sync": 3,
+     "Navigating the Sync platform": 4,
+     "Pipeline/opportunity management": 5,
+     "Setting up a Sync calendar": 4,
+     "Troubleshooting with Sync support": 2
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 1,
+     "Attribution basics (multi-touch vs. last-click)": 1,
+     "Building client-facing dashboards/reports": 2,
+     "Building cross-channel performance reports": 3,
+     "Catchlight": 4,
+     "Data analysis & trend spotting": 2,
+     "GA4 navigation & reporting (site-wide behavior)": 1,
+     "Instapage": 1,
+     "Lucidchart": 2,
+     "Prompting Claude": 3,
+     "Slack": 1,
+     "Superads": 1,
+     "Workfront": 2
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 1,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 1,
+     "Campaign performance analysis": 1,
+     "Navigating YouTube/Google Ads video campaigns": 1,
+     "Troubleshooting video ad delivery": 1,
+     "Video ad creative specs & best practices": 1
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 1,
+     "Channel setup & branding": 1,
+     "Community engagement (comments, community tab)": 1,
+     "Content planning/cadence for YouTube": 1,
+     "Thumbnail best practices": 1,
+     "Video SEO (titles, descriptions, tags)": 1
+    }
+   },
+   "updatedAt": "2026-10-08T14:44:40.105Z"
+  },
+  "trey-pivarnik": {
+   "name": "Trey Pivarnik",
+   "notes": {
+    "ai": "",
+    "content": "",
+    "email": "",
+    "google": "",
+    "landing": "",
+    "meta": "",
+    "seo": "",
+    "social": "",
+    "sync": "",
+    "tools": "",
+    "youtube_ads": "",
+    "youtube_organic": ""
+   },
+   "sections": {
+    "ai": {
+     "Analysis and reporting": 1,
+     "Automation and agents": 1,
+     "Content and creative production": 2,
+     "Judgement and compliance": 1,
+     "Prompting and context setting": 2
+    },
+    "content": {
+     "Asset organization/file management": 2,
+     "Brand voice & messaging consistency": 2,
+     "Copywriting for ads/social/email": 3,
+     "Graphic design basics (Canva or similar)": 1,
+     "Video editing basics": 1,
+     "Working within brand guidelines": 2
+    },
+    "email": {
+     "A/B testing subject lines & content": 1,
+     "Building a drip/nurture sequence": 1,
+     "Deliverability basics": 1,
+     "List segmentation": 1,
+     "Reporting on open/click rates": 1,
+     "Setting up UTM tracking for email campaigns": 1,
+     "Writing an engaging email": 3
+    },
+    "google": {
+     "Budget pacing & bid strategy": 1,
+     "Building Display campaigns": 1,
+     "Building Performance Max campaigns": 1,
+     "Building Search campaigns": 1,
+     "Conversion tracking setup (Google Tag/GA4)": 1,
+     "GA4 reporting for ad campaign performance": 1,
+     "Google My Business (GMB) management for local ads visibility": 1,
+     "Google Search Console basics for ads & indexing issues": 1,
+     "Navigating Google support": 1,
+     "Navigating the Google Ads platform": 1,
+     "Setting up UTM tracking for Google Ads": 1
+    },
+    "landing": {
+     "A/B testing landing pages": 1,
+     "Building a landing page in Instapage": 1,
+     "Building a landing page in Sync": 3,
+     "Connecting forms to CRM/pixels": 2,
+     "Conversion-focused copy & layout": 1,
+     "Mobile responsiveness checks": 1,
+     "Working with custom code elements (HTML, CSS, etc.)": 1
+    },
+    "meta": {
+     "A/B testing ad creative": 1,
+     "Account creation and partnership access": 2,
+     "Audience building & targeting": 1,
+     "Building basic lead generation campaigns": 2,
+     "Data analysis of campaign performance": 3,
+     "Installation of Conversions API": 2,
+     "Installation of Meta pixels": 2,
+     "Navigating Ads Manager": 2,
+     "Ongoing campaign optimizations": 2,
+     "Setting up UTM tracking for Meta ads": 1,
+     "Troubleshooting with Meta support": 1
+    },
+    "seo": {
+     "GEO (Generative Engine Optimization)": 1,
+     "Google Search Console monitoring for SEO performance": 1,
+     "Keyword research": 1,
+     "Link building fundamentals": 1,
+     "Local SEO / GMB optimization": 1,
+     "On-page SEO (titles, meta, headers)": 1,
+     "Reporting on SEO performance": 1,
+     "Technical SEO basics": 1
+    },
+    "social": {
+     "Community management (comments/DMs)": 1,
+     "Content cadences & scheduling": 3,
+     "Facebook best practices": 1,
+     "Instagram best practices": 1,
+     "LinkedIn best practices": 1,
+     "Optimizing content for engagement": 1,
+     "Planning multi-media organic marketing": 3,
+     "Staying current with the FB algorithm/best posting times": 2,
+     "Writing an engaging Facebook post": 3
+    },
+    "sync": {
+     "Automations & triggers": 1,
+     "Building a campaign/workflow in Sync": 1,
+     "Navigating the Sync platform": 3,
+     "Pipeline/opportunity management": 1,
+     "Setting up a Sync calendar": 3,
+     "Troubleshooting with Sync support": 2
+    },
+    "tools": {
+     "Active Campaign (general tool proficiency)": 1,
+     "Attribution basics (multi-touch vs. last-click)": 1,
+     "Building client-facing dashboards/reports": 3,
+     "Building cross-channel performance reports": 1,
+     "Catchlight": 2,
+     "Data analysis & trend spotting": 3,
+     "GA4 navigation & reporting (site-wide behavior)": 1,
+     "Instapage": 1,
+     "Lucidchart": 3,
+     "Prompting Claude": 2,
+     "Slack": 1,
+     "Superads": 1,
+     "Workfront": 4
+    },
+    "youtube_ads": {
+     "Audience targeting for video": 1,
+     "Building video ad campaigns (in-stream, in-feed, Shorts)": 1,
+     "Campaign performance analysis": 1,
+     "Navigating YouTube/Google Ads video campaigns": 1,
+     "Troubleshooting video ad delivery": 1,
+     "Video ad creative specs & best practices": 1
+    },
+    "youtube_organic": {
+     "Analyzing YouTube Studio data": 1,
+     "Channel setup & branding": 1,
+     "Community engagement (comments, community tab)": 1,
+     "Content planning/cadence for YouTube": 1,
+     "Thumbnail best practices": 1,
+     "Video SEO (titles, descriptions, tags)": 1
+    }
+   },
+   "updatedAt": "2026-10-08T14:43:55.664Z"
+  }
+ }
+}

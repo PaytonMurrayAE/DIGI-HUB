@@ -1,0 +1,36 @@
+{
+  "advisor": "Rodger Ford",
+  "aecId": "6753",
+  "coach": "",
+  "company": "Conservative Financial Solutions",
+  "dma": "Ella Diederich",
+  "feeTax": 1000,
+  "hours": 2,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Harrison, OH",
+      "zip": "45030"
+    },
+    {
+      "place": "Fort Mitchell, KY",
+      "zip": "41017"
+    },
+    {
+      "place": "Lawrenceburg, IN",
+      "zip": "47025"
+    },
+    {
+      "place": "West Chester Township, OH",
+      "zip": "45069"
+    }
+  ],
+  "mgmtFee": 1000,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792774542121,
+  "updatedBy": "Brynne"
+}

@@ -1,0 +1,12 @@
+{
+  "company": "Mitch Lyons Wealth, LLC",
+  "locations": [
+    {
+      "approx": true,
+      "lat": 33.72,
+      "lng": -117.83,
+      "place": "Orange County, CA"
+    }
+  ],
+  "source": "original heat map"
+}

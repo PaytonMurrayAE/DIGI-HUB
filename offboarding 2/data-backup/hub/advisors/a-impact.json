@@ -1,0 +1,25 @@
+{
+  "advisor": "James Teegarden",
+  "aecId": "1156725",
+  "coach": "",
+  "company": "Impact",
+  "dma": "Ella Diederich",
+  "feeTax": 1000,
+  "hours": 1.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Boulder, CO",
+      "zip": "80303"
+    }
+  ],
+  "mgmtFee": 1000,
+  "runs": [
+    "hnw",
+    "strategy"
+  ],
+  "santicares": true,
+  "ts": 1792600000000,
+  "updatedAt": 1793370465783,
+  "updatedBy": "Brynne"
+}

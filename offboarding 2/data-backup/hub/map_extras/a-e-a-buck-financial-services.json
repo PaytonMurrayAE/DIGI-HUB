@@ -1,0 +1,31 @@
+{
+  "pins": {
+    "co": [
+      {
+        "approx": true,
+        "label": "Colorado",
+        "lat": 39,
+        "lng": -105.5
+      }
+    ],
+    "nc": [
+      {
+        "approx": true,
+        "label": "North Carolina",
+        "lat": 35.5,
+        "lng": -79
+      }
+    ],
+    "wa": [
+      {
+        "approx": true,
+        "label": "Washington",
+        "lat": 47.4,
+        "lng": -120.7
+      }
+    ]
+  },
+  "signature": "Legend",
+  "updatedAt": 1793204400000,
+  "updatedBy": "Seeded from the heat map"
+}

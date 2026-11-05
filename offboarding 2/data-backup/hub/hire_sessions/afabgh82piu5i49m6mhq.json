@@ -1,0 +1,12 @@
+{
+  "attendees": [
+    "TEST",
+    "Person 2"
+  ],
+  "day": "Thursday",
+  "status": "claimed",
+  "time": "10",
+  "topic": "Intro to SantiCares",
+  "trainer": "Mak",
+  "ts": 1790615131709
+}

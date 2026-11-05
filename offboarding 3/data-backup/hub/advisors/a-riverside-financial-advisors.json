@@ -1,0 +1,27 @@
+{
+  "advisor": "Tim McMullen",
+  "aecId": "1461509",
+  "coach": "",
+  "company": "Riverside Financial Advisors",
+  "dma": "Trey Pivarnik",
+  "hours": 2,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Pittsburgh, PA",
+      "zip": "15239"
+    },
+    {
+      "place": "Orland, PA",
+      "zip": "19075"
+    }
+  ],
+  "runs": [
+    "events",
+    "hnwlira"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1793133489738,
+  "updatedBy": "Brynne"
+}

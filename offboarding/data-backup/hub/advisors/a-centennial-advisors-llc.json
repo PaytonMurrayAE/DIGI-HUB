@@ -1,0 +1,29 @@
+{
+  "advisor": "Kevin Wade",
+  "aecId": "1063824",
+  "coach": "",
+  "company": "Centennial Advisors, LLC",
+  "dma": "Trey Pivarnik",
+  "feeTax": 750,
+  "hours": 1.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Salado, TX",
+      "zip": "76571"
+    },
+    {
+      "place": "Georgetown, TX",
+      "zip": "78626"
+    }
+  ],
+  "mgmtFee": 750,
+  "runs": [
+    "events",
+    "hnwlira"
+  ],
+  "santicares": true,
+  "ts": 1792600000000,
+  "updatedAt": 1793133489738,
+  "updatedBy": "Brynne"
+}

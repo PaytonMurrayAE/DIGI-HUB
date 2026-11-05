@@ -1,0 +1,32 @@
+{
+  "advisor": "Ryan Thacker",
+  "aecId": "414700",
+  "coach": "",
+  "company": "BOSS Retirement Solutions & Advisors",
+  "dma": "Cameron Cogswell",
+  "feeTax": 1250,
+  "hours": 8,
+  "locations": [
+    {
+      "place": "Salt Lake City, UT",
+      "zip": "84121"
+    },
+    {
+      "place": "Meridian, ID",
+      "zip": "83642"
+    },
+    {
+      "place": "Kirkland, WA",
+      "zip": "98033"
+    }
+  ],
+  "mgmtFee": 1250,
+  "runs": [
+    "events",
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792695654627,
+  "updatedAt": 1793206000000,
+  "updatedBy": "Zip fix"
+}

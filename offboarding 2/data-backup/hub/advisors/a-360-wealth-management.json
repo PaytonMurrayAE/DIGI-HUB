@@ -1,0 +1,22 @@
+{
+  "advisor": "",
+  "coach": "",
+  "company": "360 Wealth Management",
+  "dma": "Payton Murray",
+  "feeTax": null,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Scottsdale, AZ",
+      "zip": "85262"
+    }
+  ],
+  "mgmtFee": 1500,
+  "runs": [
+    "coaching"
+  ],
+  "santicares": false,
+  "ts": 1792609000000,
+  "updatedAt": 1793135553138,
+  "updatedBy": "Brynne"
+}

@@ -1,0 +1,22 @@
+{
+  "advisor": "Bobby Hinkle",
+  "aecId": "1141074",
+  "coach": "",
+  "company": "Main Street Advisors",
+  "dma": "Ella Diederich",
+  "feeTax": null,
+  "hours": 4,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Edmond, OK",
+      "zip": "73013"
+    }
+  ],
+  "mgmtFee": 2000,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000
+}

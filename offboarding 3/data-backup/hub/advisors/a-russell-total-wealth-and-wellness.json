@@ -1,0 +1,22 @@
+{
+  "advisor": "Rob Russell",
+  "aecId": "18108",
+  "coach": "",
+  "company": "Russell Total Wealth and Wellness",
+  "dma": "Payton Murray",
+  "hours": 3.5,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Dayton, OH",
+      "zip": "45409"
+    }
+  ],
+  "runs": [
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792702500485,
+  "updatedBy": "Brynne"
+}

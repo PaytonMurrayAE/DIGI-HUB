@@ -1,0 +1,24 @@
+{
+  "advisor": "Matt Klaess",
+  "aecId": "245677",
+  "coach": "",
+  "company": "Paradigm Health and Wellness",
+  "dma": "Payton Murray",
+  "feeTax": null,
+  "hours": 18,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Denver, Colorado",
+      "zip": "80222"
+    }
+  ],
+  "mgmtFee": null,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": true,
+  "ts": 1792610500000,
+  "updatedAt": 1793135517219,
+  "updatedBy": "Brynne"
+}

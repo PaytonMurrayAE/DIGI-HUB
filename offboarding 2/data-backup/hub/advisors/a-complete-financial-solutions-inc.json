@@ -1,0 +1,22 @@
+{
+  "advisor": "Kenneth Stephenson",
+  "aecId": "38596",
+  "coach": "",
+  "company": "Complete Financial Services, Inc.",
+  "dma": "Emily Juarez",
+  "feeTax": null,
+  "hours": 3,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Raleigh, NC",
+      "zip": "27526"
+    }
+  ],
+  "mgmtFee": 750,
+  "runs": [
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792600000000
+}

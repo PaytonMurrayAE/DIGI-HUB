@@ -1,0 +1,24 @@
+{
+  "advisor": "Jeffrey (Jeff) Darwish",
+  "aecId": "",
+  "coach": "",
+  "company": "Darwish Financial",
+  "dma": "Ella Diederich",
+  "feeTax": null,
+  "hours": 4,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Naples, FL",
+      "zip": "34109"
+    }
+  ],
+  "mgmtFee": 2000,
+  "runs": [
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792702040904,
+  "updatedBy": "Brynne"
+}

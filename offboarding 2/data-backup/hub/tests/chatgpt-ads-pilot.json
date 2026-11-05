@@ -1,0 +1,75 @@
+{
+  "advisors": [],
+  "checklist": [
+    {
+      "done": false,
+      "text": "Budget approved"
+    },
+    {
+      "done": false,
+      "text": "Creative signed off"
+    },
+    {
+      "done": false,
+      "text": "Tracking set up"
+    },
+    {
+      "done": false,
+      "text": "Landing page live"
+    },
+    {
+      "done": false,
+      "text": "Test launched"
+    },
+    {
+      "done": false,
+      "text": "Results reviewed"
+    }
+  ],
+  "decision": [
+    "If 2 of 3 KPIs are met, we extend the pilot for another month.",
+    "If 3 of 3 are met, we extend to more advisors."
+  ],
+  "endDate": "",
+  "expectations": [
+    "$1k/month covered by AE",
+    "AE Digital maintains full creative control over creative, landing page designs, ad copy, ad image and offer",
+    "Must use SantiCares"
+  ],
+  "hypothesis": "People actively conversing with ChatGPT for retirement, tax, estate, or investment questions are closer to taking action than passive social media users.",
+  "kpis": [
+    {
+      "met": "",
+      "q": "Can we generate qualified leads?",
+      "result": "",
+      "target": "CPQL ≤ $50"
+    },
+    {
+      "met": "",
+      "q": "Are leads higher intent than Meta?",
+      "result": "",
+      "target": "CTR > 1.5%"
+    },
+    {
+      "met": "",
+      "q": "Can this channel produce appointments?",
+      "result": "",
+      "target": "CPAR ≤ $1,500"
+    }
+  ],
+  "opportunity": "We are wondering if ChatGPT ads can compress the amount of time a prospect stays in our funnel without spending more money.",
+  "outcome": "",
+  "owner": "Payton",
+  "problem": "Using Meta ads to produce appointment requests can take a while for prospects to move all the way through the funnel.",
+  "results": "",
+  "setup": [
+    "Phase 1: 1 advisor, 1 month commitment, $1k ad spend",
+    "Primary question for phase 1: Is it worth expanding to more advisors?"
+  ],
+  "startDate": "",
+  "status": "idea",
+  "title": "ChatGPT Ads pilot",
+  "ts": 1792784500000,
+  "updatedAt": 1793133028301,
+  "updatedBy": "Brynne"
+}

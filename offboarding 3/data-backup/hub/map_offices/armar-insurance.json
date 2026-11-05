@@ -1,0 +1,11 @@
+{
+  "company": "Armar Insurance",
+  "locations": [
+    {
+      "lat": 38.58,
+      "lng": -121.49,
+      "place": "Sacramento, CA"
+    }
+  ],
+  "source": "original heat map"
+}

@@ -1,0 +1,23 @@
+{
+  "advisor": "Ken Sweitzer",
+  "aecId": "103428",
+  "coach": "",
+  "company": "Sweitzer Income Planning",
+  "dma": "Trey Pivarnik",
+  "hours": 2,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Old Lyme, CT",
+      "zip": "06371"
+    }
+  ],
+  "runs": [
+    "hnwlira",
+    "strategy"
+  ],
+  "santicares": false,
+  "ts": 1792609000000,
+  "updatedAt": 1793133489738,
+  "updatedBy": "Brynne"
+}

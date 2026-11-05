@@ -1,0 +1,24 @@
+{
+  "advisor": "Christopher (Chris) Mediate",
+  "aecId": "1075897",
+  "coach": "",
+  "company": "Mediate Financial Services",
+  "dma": "Emily Juarez",
+  "feeTax": 750,
+  "hours": 2,
+  "icd": false,
+  "locations": [
+    {
+      "place": "Canfield, OH",
+      "zip": "44406"
+    }
+  ],
+  "mgmtFee": 750,
+  "runs": [
+    "hnw"
+  ],
+  "santicares": false,
+  "ts": 1792600000000,
+  "updatedAt": 1792774542121,
+  "updatedBy": "Brynne"
+}

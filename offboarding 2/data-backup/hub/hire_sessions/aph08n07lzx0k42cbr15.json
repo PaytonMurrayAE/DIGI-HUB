@@ -1,0 +1,12 @@
+{
+  "attendees": [
+    "TEST",
+    "Person 2"
+  ],
+  "day": "Tuesday",
+  "status": "claimed",
+  "time": "2",
+  "topic": "Facebook 101",
+  "trainer": "Payton",
+  "ts": 1790615131709
+}
